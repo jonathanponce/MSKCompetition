@@ -1,0 +1,1508 @@
+NYX|Nyctalopin|481|0|0|0
+AGL|Amylo-Alpha-1, 6-Glucosidase, 4-Alpha-Glucanotransferase|1532|0|0|0
+NIPA1|Non Imprinted In Prader-Willi/Angelman Syndrome 1|329|0|0|0
+AGA|Aspartylglucosaminidase|346|0|0|0
+B2M|Beta-2-Microglobulin|119|0|0|0
+NDP|NDP, Norrin Cystine Knot Growth Factor|133|0|0|0
+PMM2|Phosphomannomutase 2|246|0|0|0
+ASS1|Argininosuccinate Synthase 1|412|0|0|0
+ADIPOQ|Adiponectin, C1Q And Collagen Domain Containing|244|0|0|0
+PIK3CA|Phosphatidylinositol-4,5-Bisphosphate 3-Kinase Catalytic Subunit Alpha|1068|0|0|0
+PIK3CB|Phosphatidylinositol-4,5-Bisphosphate 3-Kinase Catalytic Subunit Beta|1070|0|0|0
+PIK3CD|Phosphatidylinositol-4,5-Bisphosphate 3-Kinase Catalytic Subunit Delta|1044|0|0|0
+SPTLC2|Serine Palmitoyltransferase Long Chain Base Subunit 2|562|0|0|0
+SPTLC1|Serine Palmitoyltransferase Long Chain Base Subunit 1|473|0|0|0
+ABCD1|ATP Binding Cassette Subfamily D Member 1|745|0|0|0
+TCOF1|Treacle Ribosome Biogenesis Factor 1|1488|0|0|0
+ZNF41|Zinc Finger Protein 41|821|0|0|0
+KCNJ2|Potassium Voltage-Gated Channel Subfamily J Member 2|427|0|0|0
+XPC|XPC Complex Subunit, DNA Damage Recognition And Repair Factor|940|0|0|0
+XPA|XPA, DNA Damage Recognition And Repair Factor|273|0|0|0
+NUP93|Nucleoporin 93|819|0|0|0
+OPA3|OPA3, Outer Mitochondrial Membrane Lipid Metabolism Regulator|179|0|0|0
+OPA1|OPA1, Mitochondrial Dynamin Like GTPase|960|0|0|0
+GK|Glycerol Kinase|559|0|0|0
+WHSC1|Nuclear Receptor Binding SET Domain Protein 2|1365|0|0|0
+TRAPPC2|Trafficking Protein Particle Complex 2|140|0|0|0
+ALDH3A2|Aldehyde Dehydrogenase 3 Family Member A2|485|0|0|0
+EVC|EvC Ciliary Complex Subunit 1|992|0|0|0
+RIT1|Ras Like Without CAAX 1|219|0|0|0
+AARS|Alanyl-TRNA Synthetase|968|0|0|0
+APOA5|Apolipoprotein A5|366|0|0|0
+IQSEC2|IQ Motif And Sec7 Domain 2|1478|0|0|0
+XPO1|Exportin 1|1071|0|0|0
+CYP27B1|Cytochrome P450 Family 27 Subfamily B Member 1|508|0|0|0
+COL4A5|Collagen Type IV Alpha 5 Chain|1685|0|0|0
+CHST3|Carbohydrate Sulfotransferase 3|479|0|0|0
+GARS|Glycyl-TRNA Synthetase|739|0|0|0
+CHST6|Carbohydrate Sulfotransferase 6|395|0|0|0
+RPS6KA3|Ribosomal Protein S6 Kinase A3|740|0|0|0
+HLCS|Holocarboxylase Synthetase|726|0|0|0
+NOG|Noggin|232|0|0|0
+TCIRG1|T-Cell Immune Regulator 1, ATPase H+ Transporting V0 Subunit A3|830|0|0|0
+FTCD|Formimidoyltransferase Cyclodeaminase|541|0|0|0
+NR0B2|Nuclear Receptor Subfamily 0 Group B Member 2|257|0|0|0
+MINPP1|Multiple Inositol-Polyphosphate Phosphatase 1|487|0|0|0
+NR0B1|Nuclear Receptor Subfamily 0 Group B Member 1|470|0|0|0
+FOXC1|Forkhead Box C1|553|0|0|0
+CD40LG|CD40 Ligand|261|0|0|0
+GHRL|Ghrelin And Obestatin Prepropeptide|117|0|0|0
+SMAD4|SMAD Family Member 4|552|0|0|0
+VAPB|VAMP Associated Protein B And C|243|0|0|0
+SMAD2|SMAD Family Member 2|467|0|0|0
+SMAD3|SMAD Family Member 3|425|0|0|0
+NDUFAF5|NADH:Ubiquinone Oxidoreductase Complex Assembly Factor 5|345|0|0|0
+NDUFAF4|NADH:Ubiquinone Oxidoreductase Complex Assembly Factor 4|175|0|0|0
+NPHP1|Nephrocystin 1|732|0|0|0
+NDUFAF6|NADH:Ubiquinone Oxidoreductase Complex Assembly Factor 6|333|0|0|0
+NDUFAF3|NADH:Ubiquinone Oxidoreductase Complex Assembly Factor 3|184|0|0|0
+FKTN|Fukutin|461|0|0|0
+CTH|Cystathionine Gamma-Lyase|405|0|0|0
+GDAP1|Ganglioside Induced Differentiation Associated Protein 1|358|0|0|0
+SLC36A2|Solute Carrier Family 36 Member 2|483|0|0|0
+TUBB2B|Tubulin Beta 2B Class IIb|445|0|0|0
+MYLK2|Myosin Light Chain Kinase 2|596|0|0|0
+COX4I2|Cytochrome C Oxidase Subunit 4I2|171|0|0|0
+SAR1B|Secretion Associated Ras Related GTPase 1B|198|0|0|0
+EDA|Ectodysplasin A|391|0|0|0
+FAM20C|FAM20C, Golgi Associated Secretory Pathway Kinase|584|0|0|0
+NPC1L1|NPC1 Like Intracellular Cholesterol Transporter 1|1359|0|0|0
+BIN1|Bridging Integrator 1|593|0|0|0
+IFT80|Intraflagellar Transport 80|777|0|0|0
+DPYD|Dihydropyrimidine Dehydrogenase|1025|0|0|0
+RDH5|Retinol Dehydrogenase 5|318|0|0|0
+DPYS|Dihydropyrimidinase|519|0|0|0
+PFKM|Phosphofructokinase, Muscle|780|0|0|0
+KISS1R|KISS1 Receptor|398|0|0|0
+CRB1|Crumbs 1, Cell Polarity Complex Component|1406|0|0|0
+FXN|Frataxin|210|0|0|0
+PHOX2B|Paired Like Homeobox 2b|314|0|0|0
+THAP1|THAP Domain Containing 1|213|0|0|0
+NIPAL4|NIPA Like Domain Containing 4|466|0|0|0
+CFI|Complement Factor I|583|0|0|0
+EWSR1|EWS RNA Binding Protein 1|656|0|0|0
+CFP|Complement Factor Properdin|469|0|0|0
+AAAS|Aladin WD Repeat Nucleoporin|546|0|0|0
+HAMP|Hepcidin Antimicrobial Peptide|84|0|0|0
+SPRED1|Sprouty Related EVH1 Domain Containing 1|444|0|0|0
+FAM58A|Family With Sequence Similarity 58 Member A|248|0|0|0
+PRPF8|Pre-MRNA Processing Factor 8|2335|0|0|0
+PRPF3|Pre-MRNA Processing Factor 3|683|0|0|0
+SIX5|SIX Homeobox 5|739|0|0|0
+SIX6|SIX Homeobox 6|246|0|0|0
+SIX1|SIX Homeobox 1|284|0|0|0
+SIX3|SIX Homeobox 3|332|0|0|0
+ZMPSTE24|Zinc Metallopeptidase STE24|475|0|0|0
+LEFTY2|Left-Right Determination Factor 2|366|0|0|0
+PDE8B|Phosphodiesterase 8B|885|0|0|0
+RAB27A|RAB27A, Member RAS Oncogene Family|221|0|0|0
+MANBA|Mannosidase Beta|879|0|0|0
+AVPR2|Arginine Vasopressin Receptor 2|371|0|0|0
+HSD3B7|Hydroxy-Delta-5-Steroid Dehydrogenase, 3 Beta- And Steroid Delta-Isomerase 7|369|0|0|0
+HSD3B2|Hydroxy-Delta-5-Steroid Dehydrogenase, 3 Beta- And Steroid Delta-Isomerase 2|372|0|0|0
+MTRR|5-Methyltetrahydrofolate-Homocysteine Methyltransferase Reductase|725|0|0|0
+APC|APC, WNT Signaling Pathway Regulator|2843|0|0|0
+KERA|Keratocan|352|0|0|0
+PAK1|P21 (RAC1) Activated Kinase 1|545|0|0|0
+TMEM43|Transmembrane Protein 43|400|0|0|0
+XPNPEP3|X-Prolyl Aminopeptidase 3|507|0|0|0
+FOXP2|Forkhead Box P2|715|0|0|0
+FOXP3|Forkhead Box P3|431|0|0|0
+FOXP1|Forkhead Box P1|677|0|0|0
+FANCD2|Fanconi Anemia Complementation Group D2|1451|0|0|0
+NSDHL|NAD(P) Dependent Steroid Dehydrogenase-Like|373|0|0|0
+NUBPL|Nucleotide Binding Protein Like|319|0|0|0
+ZNF592|Zinc Finger Protein 592|1267|0|0|0
+PPOX|Protoporphyrinogen Oxidase|477|0|0|0
+PINK1|PTEN Induced Putative Kinase 1|581|0|0|0
+MYCN|MYCN Proto-Oncogene, BHLH Transcription Factor|464|0|0|0
+TREX1|Three Prime Repair Exonuclease 1|369|0|0|0
+FLT3|Fms Related Tyrosine Kinase 3|993|0|0|0
+TCF4|Transcription Factor 4|667|0|0|0
+TCF3|Transcription Factor 3|654|0|0|0
+DLD|Dihydrolipoamide Dehydrogenase|509|0|0|0
+ARID2|AT-Rich Interaction Domain 2|1835|0|0|0
+CYP2R1|Cytochrome P450 Family 2 Subfamily R Member 1|501|0|0|0
+GJA8|Gap Junction Protein Alpha 8|433|0|0|0
+CYP27A1|Cytochrome P450 Family 27 Subfamily A Member 1|531|0|0|0
+BTD|Biotinidase|543|0|0|0
+MEF2A|Myocyte Enhancer Factor 2A|507|0|0|0
+TMEM216|Transmembrane Protein 216|145|0|0|0
+COX10|COX10, Heme A:Farnesyltransferase Cytochrome C Oxidase Assembly Factor|443|0|0|0
+PROC|Protein C, Inactivator Of Coagulation Factors Va And VIIIa|461|0|0|0
+BTK|Bruton Tyrosine Kinase|659|0|0|0
+PDGFRB|Platelet Derived Growth Factor Receptor Beta|1106|0|0|0
+PDGFRA|Platelet Derived Growth Factor Receptor Alpha|1089|0|0|0
+TMC1|Transmembrane Channel Like 1|760|0|0|0
+EIF2B4|Eukaryotic Translation Initiation Factor 2B Subunit Delta|523|0|0|0
+EIF2B5|Eukaryotic Translation Initiation Factor 2B Subunit Epsilon|721|0|0|0
+EIF2B2|Eukaryotic Translation Initiation Factor 2B Subunit Beta|351|0|0|0
+EIF2B3|Eukaryotic Translation Initiation Factor 2B Subunit Gamma|452|0|0|0
+PDGFRL|Platelet Derived Growth Factor Receptor Like|375|0|0|0
+MAGT1|Magnesium Transporter 1|335|0|0|0
+NUP62|Nucleoporin 62|522|0|0|0
+ITGA2B|Integrin Subunit Alpha 2b|1039|0|0|0
+FBXW7|F-Box And WD Repeat Domain Containing 7|707|0|0|0
+ETFA|Electron Transfer Flavoprotein Alpha Subunit|333|0|0|0
+TGFBR2|Transforming Growth Factor Beta Receptor 2|567|0|0|0
+TGFBR1|Transforming Growth Factor Beta Receptor 1|503|0|0|0
+DPAGT1|Dolichyl-Phosphate N-Acetylglucosaminephosphotransferase 1|408|0|0|0
+TET1|Tet Methylcytosine Dioxygenase 1|2136|0|0|0
+TET2|Tet Methylcytosine Dioxygenase 2|2002|0|0|0
+FOXL2|Forkhead Box L2|376|0|0|0
+LRAT|Lecithin Retinol Acyltransferase (Phosphatidylcholine--Retinol O-Acyltransferase)|230|0|0|0
+TJP2|Tight Junction Protein 2|1190|0|0|0
+MFN2|Mitofusin 2|757|0|0|0
+SH3PXD2B|SH3 And PX Domains 2B|911|0|0|0
+AGRP|Agouti Related Neuropeptide|132|0|0|0
+NSMF|NMDA Receptor Synaptonuclear Signaling And Neuronal Migration Factor|530|0|0|0
+CLCNKA|Chloride Voltage-Gated Channel Ka|687|0|0|0
+PITX3|Paired Like Homeodomain 3|302|0|0|0
+PITX1|Paired Like Homeodomain 1|314|0|0|0
+SMARCA4|SWI/SNF Related, Matrix Associated, Actin Dependent Regulator Of Chromatin, Subfamily A, Member 4|1647|0|0|0
+AXIN2|Axin 2|843|0|0|0
+AXIN1|Axin 1|862|0|0|0
+TOR1A|Torsin Family 1 Member A|332|0|0|0
+RAC2|Ras-Related C3 Botulinum Toxin Substrate 2 (Rho Family, Small GTP Binding Protein Rac2)|192|0|0|0
+RAC1|Ras-Related C3 Botulinum Toxin Substrate 1 (Rho Family, Small GTP Binding Protein Rac1)|192|0|0|0
+SBDS|SBDS, Ribosome Maturation Factor|250|0|0|0
+GALNS|Galactosamine (N-Acetyl)-6-Sulfatase|522|0|0|0
+VCP|Valosin Containing Protein|806|0|0|0
+NPSR1|Neuropeptide S Receptor 1|371|0|0|0
+CYP7B1|Cytochrome P450 Family 7 Subfamily B Member 1|506|0|0|0
+AIRE|Autoimmune Regulator|545|0|0|0
+SPAST|Spastin|616|0|0|0
+SLC16A1|Solute Carrier Family 16 Member 1|500|0|0|0
+SLC16A2|Solute Carrier Family 16 Member 2|539|0|0|0
+BCKDHB|Branched Chain Keto Acid Dehydrogenase E1 Subunit Beta|392|0|0|0
+CANT1|Calcium Activated Nucleotidase 1|401|0|0|0
+BCKDHA|Branched Chain Keto Acid Dehydrogenase E1, Alpha Polypeptide|445|0|0|0
+PTCH2|Patched 2|1203|0|0|0
+PTCH1|Patched 1|1447|0|0|0
+TUFM|Tu Translation Elongation Factor, Mitochondrial|452|0|0|0
+CBS|Cystathionine-Beta-Synthase|551|0|0|0
+PAH|Phenylalanine Hydroxylase|452|0|0|0
+APCDD1|APC Down-Regulated 1|514|0|0|0
+CACNA1H|Calcium Voltage-Gated Channel Subunit Alpha1 H|2353|0|0|0
+CACNA1A|Calcium Voltage-Gated Channel Subunit Alpha1 A|2505|0|0|0
+CACNA1F|Calcium Voltage-Gated Channel Subunit Alpha1 F|1977|0|0|0
+SRPX2|Sushi Repeat Containing Protein, X-Linked 2|465|0|0|0
+WDR62|WD Repeat Domain 62|1518|0|0|0
+CUL7|Cullin 7|1698|0|0|0
+FLCN|Folliculin|579|0|0|0
+PNKP|Polynucleotide Kinase 3-Phosphatase|521|0|0|0
+HMGCL|3-Hydroxymethyl-3-Methylglutaryl-CoA Lyase|325|0|0|0
+CLCN2|Chloride Voltage-Gated Channel 2|898|0|0|0
+CDH23|Cadherin Related 23|3354|0|0|0
+CLCN7|Chloride Voltage-Gated Channel 7|805|0|0|0
+CLCN5|Chloride Voltage-Gated Channel 5|746|0|0|0
+PER2|Period Circadian Clock 2|1255|0|0|0
+PNKD|Paroxysmal Nonkinesigenic Dyskinesia|385|0|0|0
+BRD4|Bromodomain Containing 4|1362|0|0|0
+KIF5A|Kinesin Family Member 5A|1032|0|0|0
+PTPN11|Protein Tyrosine Phosphatase, Non-Receptor Type 11|597|0|0|0
+MASP2|Mannan Binding Lectin Serine Peptidase 2|686|0|0|0
+IHH|Indian Hedgehog|411|0|0|0
+AKT3|AKT Serine/Threonine Kinase 3|479|0|0|0
+FBP1|Fructose-Bisphosphatase 1|338|0|0|0
+TECTA|Tectorin Alpha|2155|0|0|0
+ACADS|Acyl-CoA Dehydrogenase, C-2 To C-3 Short Chain|412|0|0|0
+DMD|Dystrophin|3685|0|0|0
+GBA|Glucosylceramidase Beta|536|0|0|0
+RRAS2|Related RAS Viral (R-Ras) Oncogene Homolog 2|204|0|0|0
+ARHGAP9|Rho GTPase Activating Protein 9|750|0|0|0
+HABP2|Hyaluronan Binding Protein 2|560|0|0|0
+RICTOR|RPTOR Independent Companion Of MTOR Complex 2|1708|0|0|0
+ACADL|Acyl-CoA Dehydrogenase, Long Chain|430|0|0|0
+ACADM|Acyl-CoA Dehydrogenase, C-4 To C-12 Straight Chain|421|0|0|0
+CD207|CD207 Molecule|328|0|0|0
+PPM1D|Protein Phosphatase, Mg2+/Mn2+ Dependent 1D|605|0|0|0
+SRSF2|Serine And Arginine Rich Splicing Factor 2|221|0|0|0
+PPARGC1B|PPARG Coactivator 1 Beta|1023|0|0|0
+XDH|Xanthine Dehydrogenase|1333|0|0|0
+PPP6C|Protein Phosphatase 6 Catalytic Subunit|305|0|0|0
+RNF135|Ring Finger Protein 135|432|0|0|0
+CHEK2|Checkpoint Kinase 2|543|0|0|0
+CISD2|CDGSH Iron Sulfur Domain 2|135|0|0|0
+UMPS|Uridine Monophosphate Synthetase|480|0|0|0
+PAX6|Paired Box 6|422|0|0|0
+PAX3|Paired Box 3|479|0|0|0
+PAX8|Paired Box 8|450|0|0|0
+PROK2|Prokineticin 2|129|0|0|0
+ACAD8|Acyl-CoA Dehydrogenase Family Member 8|415|0|0|0
+BAG3|BCL2 Associated Athanogene 3|575|0|0|0
+SH2D1A|SH2 Domain Containing 1A|128|0|0|0
+MYO1A|Myosin IA|1043|0|0|0
+ADAMTS10|ADAM Metallopeptidase With Thrombospondin Type 1 Motif 10|1103|0|0|0
+ADAMTS13|ADAM Metallopeptidase With Thrombospondin Type 1 Motif 13|1427|0|0|0
+PLCE1|Phospholipase C Epsilon 1|2302|0|0|0
+HMCN1|Hemicentin 1|5635|0|0|0
+SLC52A3|Solute Carrier Family 52 Member 3|469|0|0|0
+SLC6A19|Solute Carrier Family 6 Member 19|634|0|0|0
+C2|Complement C2|752|0|0|0
+ZEB2|Zinc Finger E-Box Binding Homeobox 2|1214|0|0|0
+C7|Complement C7|843|0|0|0
+C6|Complement C6|934|0|0|0
+DSG4|Desmoglein 4|1040|0|0|0
+GALT|Galactose-1-Phosphate Uridylyltransferase|379|0|0|0
+SRC|SRC Proto-Oncogene, Non-Receptor Tyrosine Kinase|536|0|0|0
+HMGCS2|3-Hydroxy-3-Methylglutaryl-CoA Synthase 2|508|0|0|0
+PDHA1|Pyruvate Dehydrogenase (Lipoamide) Alpha 1|390|0|0|0
+ERCC4|ERCC Excision Repair 4, Endonuclease Catalytic Subunit|916|0|0|0
+GALE|UDP-Galactose-4-Epimerase|348|0|0|0
+SRY|Sex Determining Region Y|204|0|0|0
+CYP4F22|Cytochrome P450 Family 4 Subfamily F Member 22|531|0|0|0
+KCNJ1|Potassium Voltage-Gated Channel Subfamily J Member 1|391|0|0|0
+KCNJ5|Potassium Voltage-Gated Channel Subfamily J Member 5|419|0|0|0
+OCRL|OCRL, Inositol Polyphosphate-5-Phosphatase|901|0|0|0
+ECM1|Extracellular Matrix Protein 1|540|0|0|0
+SDHC|Succinate Dehydrogenase Complex Subunit C|169|0|0|0
+FOXO1|Forkhead Box O1|655|0|0|0
+MPDU1|Mannose-P-Dolichol Utilization Defect 1|247|0|0|0
+FMR1|Fragile X Mental Retardation 1|632|0|0|0
+PEX10|Peroxisomal Biogenesis Factor 10|326|0|0|0
+PEX13|Peroxisomal Biogenesis Factor 13|403|0|0|0
+PEX12|Peroxisomal Biogenesis Factor 12|359|0|0|0
+GCDH|Glutaryl-CoA Dehydrogenase|438|0|0|0
+AP3B1|Adaptor Related Protein Complex 3 Beta 1 Subunit|1094|0|0|0
+PRICKLE1|Prickle Planar Cell Polarity Protein 1|831|0|0|0
+GCNT2|Glucosaminyl (N-Acetyl) Transferase 2, I-Branching Enzyme (I Blood Group)|402|0|0|0
+AMHR2|Anti-Mullerian Hormone Receptor Type 2|573|0|0|0
+SPINK5|Serine Peptidase Inhibitor, Kazal Type 5|1064|0|0|0
+EYA1|EYA Transcriptional Coactivator And Phosphatase 1|592|0|0|0
+RGS9|Regulator Of G Protein Signaling 9|674|0|0|0
+SMARCB1|SWI/SNF Related, Matrix Associated, Actin Dependent Regulator Of Chromatin, Subfamily B, Member 1|385|0|0|0
+PIGV|Phosphatidylinositol Glycan Anchor Biosynthesis Class V|493|0|0|0
+EPCAM|Epithelial Cell Adhesion Molecule|314|0|0|0
+HPD|4-Hydroxyphenylpyruvate Dioxygenase|393|0|0|0
+OLR1|Oxidized Low Density Lipoprotein Receptor 1|273|0|0|0
+FOXC2|Forkhead Box C2|501|0|0|0
+EBP|Emopamil Binding Protein (Sterol Isomerase)|230|0|0|0
+RDH12|Retinol Dehydrogenase 12 (All-Trans/9-Cis/11-Cis)|316|0|0|0
+DOLK|Dolichol Kinase|538|0|0|0
+FXYD2|FXYD Domain Containing Ion Transport Regulator 2|66|0|0|0
+DMGDH|Dimethylglycine Dehydrogenase|866|0|0|0
+OGG1|8-Oxoguanine DNA Glycosylase|345|0|0|0
+SLC39A13|Solute Carrier Family 39 Member 13|371|0|0|0
+EIF1AX|Eukaryotic Translation Initiation Factor 1A, X-Linked|144|0|0|0
+NTRK1|Neurotrophic Receptor Tyrosine Kinase 1|796|0|0|0
+NTRK2|Neurotrophic Receptor Tyrosine Kinase 2|822|0|0|0
+NTRK3|Neurotrophic Receptor Tyrosine Kinase 3|839|0|0|0
+SLC34A3|Solute Carrier Family 34 Member 3|599|0|0|0
+ARHGAP26|Rho GTPase Activating Protein 26|814|0|0|0
+KRAS|KRAS Proto-Oncogene, GTPase|189|0|0|0
+TSEN54|TRNA Splicing Endonuclease Subunit 54|526|0|0|0
+UBR1|Ubiquitin Protein Ligase E3 Component N-Recognin 1|1749|0|0|0
+ABHD5|Abhydrolase Domain Containing 5|349|0|0|0
+MLYCD|Malonyl-CoA Decarboxylase|493|0|0|0
+NPHP3|Nephrocystin 3|1330|0|0|0
+MBTPS2|Membrane Bound Transcription Factor Peptidase, Site 2|519|0|0|0
+SC5D|Sterol-C5-Desaturase|299|0|0|0
+ACSL4|Acyl-CoA Synthetase Long-Chain Family Member 4|711|0|0|0
+FAT1|FAT Atypical Cadherin 1|4588|0|0|0
+HR|HR, Lysine Demethylase And Nuclear Receptor Corepressor|1189|0|0|0
+TRIM32|Tripartite Motif Containing 32|653|0|0|0
+NPHP4|Nephrocystin 4|1426|0|0|0
+TRIM37|Tripartite Motif Containing 37|964|0|0|0
+G6PC3|Glucose-6-Phosphatase Catalytic Subunit 3|346|0|0|0
+NHP2|NHP2 Ribonucleoprotein|153|0|0|0
+UROC1|Urocanate Hydratase 1|676|0|0|0
+LRRK2|Leucine Rich Repeat Kinase 2|2527|0|0|0
+WISP3|WNT1 Inducible Signaling Pathway Protein 3|354|0|0|0
+INVS|Inversin|1065|0|0|0
+NPC2|NPC Intracellular Cholesterol Transporter 2|151|0|0|0
+NPC1|NPC Intracellular Cholesterol Transporter 1|1278|0|0|0
+ERMAP|Erythroblast Membrane Associated Protein (Scianna Blood Group)|475|0|0|0
+PTS|6-Pyruvoyltetrahydropterin Synthase|145|0|0|0
+RAB3GAP2|RAB3 GTPase Activating Non-Catalytic Protein Subunit 2|1393|0|0|0
+PIKFYVE|Phosphoinositide Kinase, FYVE-Type Zinc Finger Containing|2098|0|0|0
+RNF43|Ring Finger Protein 43|783|0|0|0
+EFHC1|EF-Hand Domain Containing 1|640|0|0|0
+ETHE1|ETHE1, Persulfide Dioxygenase|254|0|0|0
+TMEM67|Transmembrane Protein 67|995|0|0|0
+ABCG5|ATP Binding Cassette Subfamily G Member 5|651|0|0|0
+ABCG8|ATP Binding Cassette Subfamily G Member 8|673|0|0|0
+MPO|Myeloperoxidase|745|0|0|0
+MPL|MPL Proto-Oncogene, Thrombopoietin Receptor|635|0|0|0
+AVP|Arginine Vasopressin|164|0|0|0
+PRODH|Proline Dehydrogenase 1|600|0|0|0
+ITM2B|Integral Membrane Protein 2B|266|0|0|0
+SNCB|Synuclein Beta|134|0|0|0
+AGO2|Argonaute 2, RISC Catalytic Component|859|0|0|0
+GAMT|Guanidinoacetate N-Methyltransferase|236|0|0|0
+SACS|Sacsin Molecular Chaperone|4579|0|0|0
+HPGD|Hydroxyprostaglandin Dehydrogenase 15-(NAD)|266|0|0|0
+NCOR1|Nuclear Receptor Corepressor 1|2440|0|0|0
+TEK|TEK Receptor Tyrosine Kinase|1124|0|0|0
+FZD4|Frizzled Class Receptor 4|537|0|0|0
+CACNB2|Calcium Voltage-Gated Channel Auxiliary Subunit Beta 2|660|0|0|0
+CACNB4|Calcium Voltage-Gated Channel Auxiliary Subunit Beta 4|520|0|0|0
+NBN|Nibrin|754|0|0|0
+NECTIN4|Nectin Cell Adhesion Molecule 4|510|0|0|0
+SRD5A2|Steroid 5 Alpha-Reductase 2|254|0|0|0
+DHCR24|24-Dehydrocholesterol Reductase|516|0|0|0
+RPL5|Ribosomal Protein L5|297|0|0|0
+ESRRB|Estrogen Related Receptor Beta|508|0|0|0
+ADA|Adenosine Deaminase|363|0|0|0
+HIST1H1C|Histone Cluster 1 H1 Family Member C|213|0|0|0
+B3GALNT1|Beta-1,3-N-Acetylgalactosaminyltransferase 1 (Globoside Blood Group)|331|0|0|0
+PKD1|Polycystin 1, Transient Receptor Potential Channel Interacting|4303|0|0|0
+GJC2|Gap Junction Protein Gamma 2|439|0|0|0
+IGFALS|Insulin Like Growth Factor Binding Protein Acid Labile Subunit|605|0|0|0
+GNMT|Glycine N-Methyltransferase|295|0|0|0
+SPG7|SPG7, Paraplegin Matrix AAA Peptidase Subunit|795|0|0|0
+BCL2L11|BCL2 Like 11|198|0|0|0
+KCNK9|Potassium Two Pore Domain Channel Subfamily K Member 9|374|0|0|0
+ESCO2|Establishment Of Sister Chromatid Cohesion N-Acetyltransferase 2|601|0|0|0
+HADHA|Hydroxyacyl-CoA Dehydrogenase/3-Ketoacyl-CoA Thiolase/Enoyl-CoA Hydratase (Trifunctional Protein), Alpha Subunit|763|0|0|0
+MLH3|MutL Homolog 3|1453|0|0|0
+MLH1|MutL Homolog 1|756|0|0|0
+HSD11B2|Hydroxysteroid 11-Beta Dehydrogenase 2|405|0|0|0
+VPS13B|Vacuolar Protein Sorting 13 Homolog B|4022|0|0|0
+SHOX|Short Stature Homeobox|292|0|0|0
+TMPRSS2|Transmembrane Protease, Serine 2|492|0|0|0
+TMPRSS3|Transmembrane Protease, Serine 3|454|0|0|0
+TMPRSS6|Transmembrane Protease, Serine 6|811|0|0|0
+ABCC11|ATP Binding Cassette Subfamily C Member 11|1382|0|0|0
+DIS3|DIS3 Homolog, Exosome Endoribonuclease And 3-5 Exoribonuclease|958|0|0|0
+CHD7|Chromodomain Helicase DNA Binding Protein 7|2997|0|0|0
+TAB2|TGF-Beta Activated Kinase 1/MAP3K7 Binding Protein 2|693|0|0|0
+EMG1|EMG1, N1-Specific Pseudouridine Methyltransferase|244|0|0|0
+DKC1|Dyskerin Pseudouridine Synthase 1|514|0|0|0
+SDHA|Succinate Dehydrogenase Complex Flavoprotein Subunit A|664|0|0|0
+BAP1|BRCA1 Associated Protein 1|729|0|0|0
+SDHB|Succinate Dehydrogenase Complex Iron Sulfur Subunit B|280|0|0|0
+SDHD|Succinate Dehydrogenase Complex Subunit D|159|0|0|0
+ERRFI1|ERBB Receptor Feedback Inhibitor 1|462|0|0|0
+BUB1B|BUB1 Mitotic Checkpoint Serine/Threonine Kinase B|1050|0|0|0
+SUMO4|Small Ubiquitin-Like Modifier 4|95|0|0|0
+MOCS2|Molybdenum Cofactor Synthesis 2|188|88|0|0
+MOCS1|Molybdenum Cofactor Synthesis 1|636|0|0|0
+L1CAM|L1 Cell Adhesion Molecule|1257|0|0|0
+LHX3|LIM Homeobox 3|397|0|0|0
+LHX4|LIM Homeobox 4|390|0|0|0
+DAZL|Deleted In Azoospermia Like|295|0|0|0
+IGF1R|Insulin Like Growth Factor 1 Receptor|1367|0|0|0
+TAS2R16|Taste 2 Receptor Member 16|291|0|0|0
+SLC45A2|Solute Carrier Family 45 Member 2|530|0|0|0
+OCA2|OCA2 Melanosomal Transmembrane Protein|838|0|0|0
+AKAP9|A-Kinase Anchoring Protein 9|3911|0|0|0
+IL7R|Interleukin 7 Receptor|459|0|0|0
+ANO5|Anoctamin 5|913|0|0|0
+WT1|Wilms Tumor 1|449|0|0|0
+PEPD|Peptidase D|493|0|0|0
+JAK2|Janus Kinase 2|1132|0|0|0
+JAK3|Janus Kinase 3|1124|0|0|0
+H3F3A|H3 Histone Family Member 3A|136|0|0|0
+JAK1|Janus Kinase 1|1154|0|0|0
+GRM6|Glutamate Metabotropic Receptor 6|877|0|0|0
+GUCY2D|Guanylate Cyclase 2D, Retinal|1103|0|0|0
+PPARG|Peroxisome Proliferator Activated Receptor Gamma|505|0|0|0
+ING1|Inhibitor Of Growth Family Member 1|422|0|0|0
+CNGB3|Cyclic Nucleotide Gated Channel Beta 3|809|0|0|0
+GLA|Galactosidase Alpha|429|0|0|0
+SLC2A10|Solute Carrier Family 2 Member 10|541|0|0|0
+LHFPL5|Lipoma HMGIC Fusion Partner-Like 5|219|0|0|0
+RHOA|Ras Homolog Family Member A|193|0|0|0
+TLL1|Tolloid Like 1|1013|0|0|0
+NT5C3A|5-Nucleotidase, Cytosolic IIIA|336|0|0|0
+ACAT1|Acetyl-CoA Acetyltransferase 1|427|0|0|0
+DDB2|Damage Specific DNA Binding Protein 2|427|0|0|0
+SETX|Senataxin|2677|0|0|0
+RIMS1|Regulating Synaptic Membrane Exocytosis 1|1692|0|0|0
+IVD|Isovaleryl-CoA Dehydrogenase|423|0|0|0
+CCBE1|Collagen And Calcium Binding EGF Domains 1|406|0|0|0
+ZNF81|Zinc Finger Protein 81|661|0|0|0
+SUGCT|Succinyl-CoA:Glutarate-CoA Transferase|445|0|0|0
+LDLR|Low Density Lipoprotein Receptor|860|0|0|0
+SLC27A4|Solute Carrier Family 27 Member 4|643|0|0|0
+CYP2C9|Cytochrome P450 Family 2 Subfamily C Member 9|490|0|0|0
+SLC17A8|Solute Carrier Family 17 Member 8|589|0|0|0
+TPCN2|Two Pore Segment Channel 2|752|0|0|0
+IL2RG|Interleukin 2 Receptor Subunit Gamma|369|0|0|0
+SLC17A5|Solute Carrier Family 17 Member 5|495|0|0|0
+PBRM1|Polybromo 1|1689|0|0|0
+ATPAF2|ATP Synthase Mitochondrial F1 Complex Assembly Factor 2|289|0|0|0
+HNF4A|Hepatocyte Nuclear Factor 4 Alpha|474|0|0|0
+CHMP4B|Charged Multivesicular Body Protein 4B|224|0|0|0
+ERF|ETS2 Repressor Factor|548|0|0|0
+BSND|Barttin CLCNK Type Accessory Beta Subunit|320|0|0|0
+HAL|Histidine Ammonia-Lyase|657|0|0|0
+LPIN2|Lipin 2|896|0|0|0
+MYOD1|Myogenic Differentiation 1|320|0|0|0
+SLC37A4|Solute Carrier Family 37 Member 4|429|0|0|0
+CDK12|Cyclin Dependent Kinase 12|1490|0|0|0
+GJB3|Gap Junction Protein Beta 3|270|0|0|0
+GJB4|Gap Junction Protein Beta 4|266|0|0|0
+GJB6|Gap Junction Protein Beta 6|261|0|0|0
+KLF6|Kruppel Like Factor 6|283|0|0|0
+KLF4|Kruppel Like Factor 4|513|0|0|0
+SELENON|Selenoprotein N|590|0|0|0
+KLF1|Kruppel Like Factor 1|362|0|0|0
+IDH2|Isocitrate Dehydrogenase (NADP(+)) 2, Mitochondrial|452|0|0|0
+FBN2|Fibrillin 2|2912|0|0|0
+TPH2|Tryptophan Hydroxylase 2|490|0|0|0
+STS|Steroid Sulfatase|583|0|0|0
+TRIP11|Thyroid Hormone Receptor Interactor 11|1979|0|0|0
+GATA1|GATA Binding Protein 1|413|0|0|0
+BAAT|Bile Acid-CoA:Amino Acid N-Acyltransferase|418|0|0|0
+SCN1B|Sodium Voltage-Gated Channel Beta Subunit 1|218|0|0|0
+CYP11B1|Cytochrome P450 Family 11 Subfamily B Member 1|503|0|0|0
+FUCA1|Fucosidase, Alpha-L- 1, Tissue|466|0|0|0
+SLC1A3|Solute Carrier Family 1 Member 3|542|0|0|0
+TGM5|Transglutaminase 5|720|0|0|0
+IKBKG|Inhibitor Of Nuclear Factor Kappa B Kinase Subunit Gamma|419|0|0|0
+IKBKE|Inhibitor Of Nuclear Factor Kappa B Kinase Subunit Epsilon|716|0|0|0
+FOXI1|Forkhead Box I1|378|0|0|0
+RARA|Retinoic Acid Receptor Alpha|462|0|0|0
+RAI1|Retinoic Acid Induced 1|1906|0|0|0
+MKKS|McKusick-Kaufman Syndrome|570|0|0|0
+CDKN2B|Cyclin Dependent Kinase Inhibitor 2B|138|0|0|0
+CDKN2C|Cyclin Dependent Kinase Inhibitor 2C|168|0|0|0
+CDKN2A|Cyclin Dependent Kinase Inhibitor 2A|156|132|0|0
+BARD1|BRCA1 Associated RING Domain 1|777|0|0|0
+TPO|Thyroid Peroxidase|933|0|0|0
+SMARCAL1|SWI/SNF Related, Matrix Associated, Actin Dependent Regulator Of Chromatin, Subfamily A Like 1|954|0|0|0
+PHGDH|Phosphoglycerate Dehydrogenase|533|0|0|0
+PRKRA|Protein Activator Of Interferon Induced Protein Kinase EIF2AK2|313|0|0|0
+SLC2A9|Solute Carrier Family 2 Member 9|540|0|0|0
+FA2H|Fatty Acid 2-Hydroxylase|372|0|0|0
+NOBOX|NOBOX Oogenesis Homeobox|691|0|0|0
+FUBP1|Far Upstream Element Binding Protein 1|644|0|0|0
+COLQ|Collagen Like Tail Subunit Of Asymmetric Acetylcholinesterase|455|0|0|0
+VANGL1|VANGL Planar Cell Polarity Protein 1|524|0|0|0
+VANGL2|VANGL Planar Cell Polarity Protein 2|521|0|0|0
+AMELX|Amelogenin, X-Linked|191|0|0|0
+KDM5A|Lysine Demethylase 5A|1690|0|0|0
+ADAMTSL2|ADAMTS Like 2|951|0|0|0
+GFER|Growth Factor, Augmenter Of Liver Regeneration|205|0|0|0
+TULP1|Tubby Like Protein 1|542|0|0|0
+SLC46A1|Solute Carrier Family 46 Member 1|459|0|0|0
+BBS4|Bardet-Biedl Syndrome 4|519|0|0|0
+F12|Coagulation Factor XII|615|0|0|0
+F10|Coagulation Factor X|488|0|0|0
+F11|Coagulation Factor XI|625|0|0|0
+EPAS1|Endothelial PAS Domain Protein 1|870|0|0|0
+ATP6V0A4|ATPase H+ Transporting V0 Subunit A4|840|0|0|0
+PCDH15|Protocadherin Related 15|1955|0|0|0
+PCDH19|Protocadherin 19|1148|0|0|0
+GUCA1A|Guanylate Cyclase Activator 1A|201|0|0|0
+CREBBP|CREB Binding Protein|2442|0|0|0
+GUCA1B|Guanylate Cyclase Activator 1B|200|0|0|0
+KRT74|Keratin 74|529|0|0|0
+NODAL|Nodal Growth Differentiation Factor|347|0|0|0
+ATM|ATM Serine/Threonine Kinase|3056|0|0|0
+STXBP1|Syntaxin Binding Protein 1|594|0|0|0
+STXBP2|Syntaxin Binding Protein 2|593|0|0|0
+ATR|ATR Serine/Threonine Kinase|2644|0|0|0
+BRIP1|BRCA1 Interacting Protein C-Terminal Helicase 1|1249|0|0|0
+INF2|Inverted Formin, FH2 And WH2 Domain Containing|1249|0|0|0
+FLT1|Fms Related Tyrosine Kinase 1|1338|0|0|0
+CYP1B1|Cytochrome P450 Family 1 Subfamily B Member 1|543|0|0|0
+HFE2|Hemochromatosis Type 2 (Juvenile)|426|0|0|0
+VKORC1|Vitamin K Epoxide Reductase Complex Subunit 1|163|0|0|0
+FANCC|Fanconi Anemia Complementation Group C|558|0|0|0
+FANCA|Fanconi Anemia Complementation Group A|1455|0|0|0
+FANCI|Fanconi Anemia Complementation Group I|1328|0|0|0
+KNSTRN|Kinetochore Localized Astrin/SPAG5 Binding Protein|316|0|0|0
+SLC22A18|Solute Carrier Family 22 Member 18|424|0|0|0
+ACOX1|Acyl-CoA Oxidase 1|660|0|0|0
+SLC22A12|Solute Carrier Family 22 Member 12|553|0|0|0
+IRS2|Insulin Receptor Substrate 2|1338|0|0|0
+CDK4|Cyclin Dependent Kinase 4|303|0|0|0
+HOXA2|Homeobox A2|376|0|0|0
+CDK6|Cyclin Dependent Kinase 6|326|0|0|0
+SGSH|N-Sulfoglucosamine Sulfohydrolase|502|0|0|0
+CDK8|Cyclin Dependent Kinase 8|464|0|0|0
+LPAR6|Lysophosphatidic Acid Receptor 6|344|0|0|0
+MSH2|MutS Homolog 2|934|0|0|0
+SF3B1|Splicing Factor 3b Subunit 1|1304|0|0|0
+PRKN|Parkin RBR E3 Ubiquitin Protein Ligase|465|0|0|0
+MSH6|MutS Homolog 6|1360|0|0|0
+CYP17A1|Cytochrome P450 Family 17 Subfamily A Member 1|508|0|0|0
+TMIE|Transmembrane Inner Ear|156|0|0|0
+ELAC2|ElaC Ribonuclease Z 2|826|0|0|0
+ATG16L1|Autophagy Related 16 Like 1|607|0|0|0
+ANOS1|Anosmin 1|680|0|0|0
+USH1C|USH1 Protein Network Component Harmonin|552|0|0|0
+USH1G|USH1 Protein Network Component Sans|461|0|0|0
+PRKCH|Protein Kinase C Eta|683|0|0|0
+MATN3|Matrilin 3|486|0|0|0
+DHH|Desert Hedgehog|396|0|0|0
+KRIT1|KRIT1, Ankyrin Repeat Containing|736|0|0|0
+UCP3|Uncoupling Protein 3|312|0|0|0
+SLC6A20|Solute Carrier Family 6 Member 20|592|0|0|0
+RAPSN|Receptor Associated Protein Of The Synapse|412|0|0|0
+FLVCR2|Feline Leukemia Virus Subgroup C Cellular Receptor Family Member 2|526|0|0|0
+MFRP|Membrane Frizzled-Related Protein|579|0|0|0
+TBX20|T-Box 20|447|0|0|0
+TBX22|T-Box 22|520|0|0|0
+PPP1R3A|Protein Phosphatase 1 Regulatory Subunit 3A|1122|0|0|0
+CNGB1|Cyclic Nucleotide Gated Channel Beta 1|1251|0|0|0
+PRPF31|Pre-MRNA Processing Factor 31|499|0|0|0
+MAP3K1|Mitogen-Activated Protein Kinase Kinase Kinase 1|1512|0|0|0
+PLA2G6|Phospholipase A2 Group VI|806|0|0|0
+PLA2G7|Phospholipase A2 Group VII|441|0|0|0
+TRPV4|Transient Receptor Potential Cation Channel Subfamily V Member 4|871|0|0|0
+ERBB2|Erb-B2 Receptor Tyrosine Kinase 2|1255|0|0|0
+ERBB3|Erb-B2 Receptor Tyrosine Kinase 3|1342|0|0|0
+CTSK|Cathepsin K|329|0|0|0
+TRMU|TRNA 5-Methylaminomethyl-2-Thiouridylate Methyltransferase|421|0|0|0
+TBXAS1|Thromboxane A Synthase 1|533|0|0|0
+PEX26|Peroxisomal Biogenesis Factor 26|305|0|0|0
+CTSA|Cathepsin A|480|0|0|0
+IDH1|Isocitrate Dehydrogenase (NADP(+)) 1, Cytosolic|414|0|0|0
+CTSC|Cathepsin C|463|0|0|0
+FGFR4|Fibroblast Growth Factor Receptor 4|802|0|0|0
+SETD2|SET Domain Containing 2|2564|0|0|0
+FGFR2|Fibroblast Growth Factor Receptor 2|821|0|0|0
+FGFR3|Fibroblast Growth Factor Receptor 3|806|0|0|0
+FGFR1|Fibroblast Growth Factor Receptor 1|822|0|0|0
+INPP5E|Inositol Polyphosphate-5-Phosphatase E|644|0|0|0
+SPEN|Spen Family Transcriptional Repressor|3664|0|0|0
+FREM2|FRAS1 Related Extracellular Matrix Protein 2|3169|0|0|0
+FREM1|FRAS1 Related Extracellular Matrix 1|2179|0|0|0
+EMD|Emerin|254|0|0|0
+RGR|Retinal G Protein Coupled Receptor|291|0|0|0
+TIMM8A|Translocase Of Inner Mitochondrial Membrane 8A|97|0|0|0
+PNPLA2|Patatin Like Phospholipase Domain Containing 2|504|0|0|0
+RRM2B|Ribonucleotide Reductase Regulatory TP53 Inducible Subunit M2B|351|0|0|0
+PNPLA6|Patatin Like Phospholipase Domain Containing 6|1366|0|0|0
+SMPD1|Sphingomyelin Phosphodiesterase 1|629|0|0|0
+FRZB|Frizzled-Related Protein|325|0|0|0
+PHKA1|Phosphorylase Kinase Regulatory Subunit Alpha 1|1223|0|0|0
+GCKR|Glucokinase Regulator|625|0|0|0
+CCM2|CCM2 Scaffolding Protein|444|0|0|0
+UBA1|Ubiquitin Like Modifier Activating Enzyme 1|1058|0|0|0
+PHKA2|Phosphorylase Kinase Regulatory Subunit Alpha 2|1235|0|0|0
+ABCA12|ATP Binding Cassette Subfamily A Member 12|2595|0|0|0
+TP53|Tumor Protein P53|393|0|0|0
+GNAQ|G Protein Subunit Alpha Q|359|0|0|0
+GNAS|GNAS Complex Locus|245|394|626|1037
+MED13L|Mediator Complex Subunit 13 Like|2210|0|0|0
+MOGS|Mannosyl-Oligosaccharide Glucosidase|837|0|0|0
+SHQ1|SHQ1, H/ACA Ribonucleoprotein Assembly Factor|577|0|0|0
+KRT2|Keratin 2|639|0|0|0
+ACVR1|Activin A Receptor Type 1|509|0|0|0
+KRT9|Keratin 9|623|0|0|0
+FRMD7|FERM Domain Containing 7|714|0|0|0
+KRT81|Keratin 81|505|0|0|0
+KRT83|Keratin 83|493|0|0|0
+MASTL|Microtubule Associated Serine/Threonine Kinase Like|879|0|0|0
+KRT85|Keratin 85|507|0|0|0
+CASK|Calcium/Calmodulin Dependent Serine Protein Kinase|926|0|0|0
+TSEN2|TRNA Splicing Endonuclease Subunit 2|465|0|0|0
+CASR|Calcium Sensing Receptor|1078|0|0|0
+LFNG|LFNG O-Fucosylpeptide 3-Beta-N-Acetylglucosaminyltransferase|379|0|0|0
+ALOX12B|Arachidonate 12-Lipoxygenase, 12R Type|701|0|0|0
+TAS2R38|Taste 2 Receptor Member 38|333|0|0|0
+COCH|Cochlin|550|0|0|0
+NDUFA1|NADH:Ubiquinone Oxidoreductase Subunit A1|70|0|0|0
+COMP|Cartilage Oligomeric Matrix Protein|757|0|0|0
+SALL4|Spalt Like Transcription Factor 4|1053|0|0|0
+WAS|Wiskott-Aldrich Syndrome|502|0|0|0
+TARDBP|TAR DNA Binding Protein|414|0|0|0
+VHL|Von Hippel-Lindau Tumor Suppressor|213|0|0|0
+AGXT|Alanine-Glyoxylate Aminotransferase|392|0|0|0
+WNT4|Wnt Family Member 4|351|0|0|0
+PALLD|Palladin, Cytoskeletal Associated Protein|1383|0|0|0
+BLMH|Bleomycin Hydrolase|455|0|0|0
+BPGM|Bisphosphoglycerate Mutase|259|0|0|0
+AIP|Aryl Hydrocarbon Receptor Interacting Protein|330|0|0|0
+IL23R|Interleukin 23 Receptor|629|0|0|0
+GNE|Glucosamine (UDP-N-Acetyl)-2-Epimerase/N-Acetylmannosamine Kinase|722|0|0|0
+SPTBN2|Spectrin Beta, Non-Erythrocytic 2|2390|0|0|0
+KLF11|Kruppel Like Factor 11|512|0|0|0
+GDF1|Growth Differentiation Factor 1|372|0|0|0
+TFAP2B|Transcription Factor AP-2 Beta|460|0|0|0
+GDF6|Growth Differentiation Factor 6|455|0|0|0
+GDF5|Growth Differentiation Factor 5|501|0|0|0
+GBE1|1,4-Alpha-Glucan Branching Enzyme 1|702|0|0|0
+LIPH|Lipase H|451|0|0|0
+SUOX|Sulfite Oxidase|545|0|0|0
+CPT1A|Carnitine Palmitoyltransferase 1A|773|0|0|0
+POU3F4|POU Class 3 Homeobox 4|361|0|0|0
+GPD1L|Glycerol-3-Phosphate Dehydrogenase 1-Like|351|0|0|0
+SQSTM1|Sequestosome 1|440|0|0|0
+SAMHD1|SAM And HD Domain Containing Deoxynucleoside Triphosphate Triphosphohydrolase 1|626|0|0|0
+AMACR|Alpha-Methylacyl-CoA Racemase|382|0|0|0
+NDUFS2|NADH:Ubiquinone Oxidoreductase Core Subunit S2|463|0|0|0
+NDUFS3|NADH:Ubiquinone Oxidoreductase Core Subunit S3|264|0|0|0
+SECISBP2|SECIS Binding Protein 2|854|0|0|0
+NDUFS6|NADH:Ubiquinone Oxidoreductase Subunit S6|124|0|0|0
+NDUFS7|NADH:Ubiquinone Oxidoreductase Core Subunit S7|213|0|0|0
+NDUFS8|NADH:Ubiquinone Oxidoreductase Core Subunit S8|210|0|0|0
+A4GALT|Alpha 1,4-Galactosyltransferase (P Blood Group)|353|0|0|0
+COQ2|Coenzyme Q2, Polyprenyltransferase|371|0|0|0
+USH2A|Usherin|5202|0|0|0
+CTRC|Chymotrypsin C|268|0|0|0
+CHMP2B|Charged Multivesicular Body Protein 2B|213|0|0|0
+NHLRC1|NHL Repeat Containing E3 Ubiquitin Protein Ligase 1|395|0|0|0
+BCS1L|BCS1 Homolog, Ubiquinol-Cytochrome C Reductase Complex Chaperone|419|0|0|0
+PPT1|Palmitoyl-Protein Thioesterase 1|306|0|0|0
+CPT2|Carnitine Palmitoyltransferase 2|658|0|0|0
+INPP4B|Inositol Polyphosphate-4-Phosphatase Type II B|924|0|0|0
+WHSC1L1|Nuclear Receptor Binding SET Domain Protein 3|1437|0|0|0
+PYGL|Glycogen Phosphorylase L|847|0|0|0
+PYGM|Glycogen Phosphorylase, Muscle Associated|842|0|0|0
+DBH|Dopamine Beta-Hydroxylase|617|0|0|0
+ZNF365|Zinc Finger Protein 365|216|407|0|0
+GRXCR1|Glutaredoxin And Cysteine Rich Domain Containing 1|290|0|0|0
+PMS1|PMS1 Homolog 1, Mismatch Repair System Component|932|0|0|0
+PMS2|PMS1 Homolog 2, Mismatch Repair System Component|862|0|0|0
+VPS13A|Vacuolar Protein Sorting 13 Homolog A|3174|0|0|0
+ROBO3|Roundabout Guidance Receptor 3|1386|0|0|0
+ROBO2|Roundabout Guidance Receptor 2|1378|0|0|0
+TLR2|Toll Like Receptor 2|784|0|0|0
+TLR3|Toll Like Receptor 3|904|0|0|0
+DARS2|Aspartyl-TRNA Synthetase 2, Mitochondrial|645|0|0|0
+TLR4|Toll Like Receptor 4|839|0|0|0
+TLR5|Toll Like Receptor 5|858|0|0|0
+RNF6|Ring Finger Protein 6|685|0|0|0
+MYO15A|Myosin XVA|3530|0|0|0
+SLC19A2|Solute Carrier Family 19 Member 2|497|0|0|0
+RFX6|Regulatory Factor X6|928|0|0|0
+SCN3B|Sodium Voltage-Gated Channel Beta Subunit 3|215|0|0|0
+VDR|Vitamin D Receptor|427|0|0|0
+SLC7A9|Solute Carrier Family 7 Member 9|487|0|0|0
+HLA-B|Major Histocompatibility Complex, Class I, B|362|0|0|0
+HLA-A|Major Histocompatibility Complex, Class I, A|365|0|0|0
+NFKBIA|NFKB Inhibitor Alpha|317|0|0|0
+RFXANK|Regulatory Factor X Associated Ankyrin Containing Protein|260|0|0|0
+UBE3A|Ubiquitin Protein Ligase E3A|875|0|0|0
+RPGRIP1|Retinitis Pigmentosa GTPase Regulator Interacting Protein 1|1286|0|0|0
+MYD88|Myeloid Differentiation Primary Response 88|296|0|0|0
+EPM2A|EPM2A, Laforin Glucan Phosphatase|344|331|0|0
+ACVRL1|Activin A Receptor Like Type 1|503|0|0|0
+LMX1B|LIM Homeobox Transcription Factor 1 Beta|402|0|0|0
+ABCB11|ATP Binding Cassette Subfamily B Member 11|1321|0|0|0
+SLC26A4|Solute Carrier Family 26 Member 4|780|0|0|0
+GTF2H5|General Transcription Factor IIH Subunit 5|71|0|0|0
+FGF9|Fibroblast Growth Factor 9|208|0|0|0
+FGF8|Fibroblast Growth Factor 8|233|0|0|0
+SART3|Squamous Cell Carcinoma Antigen Recognized By T-Cells 3|963|0|0|0
+FGF4|Fibroblast Growth Factor 4|206|0|0|0
+FGF3|Fibroblast Growth Factor 3|239|0|0|0
+PMP22|Peripheral Myelin Protein 22|160|0|0|0
+BCAM|Basal Cell Adhesion Molecule (Lutheran Blood Group)|628|0|0|0
+SEC23B|Sec23 Homolog B, Coat Complex II Component|767|0|0|0
+GCH1|GTP Cyclohydrolase 1|250|0|0|0
+DBT|Dihydrolipoamide Branched Chain Transacylase E2|482|0|0|0
+AR|Androgen Receptor|920|0|0|0
+BEST1|Bestrophin 1|585|0|0|0
+PAK3|P21 (RAC1) Activated Kinase 3|559|0|0|0
+RECQL4|RecQ Like Helicase 4|1208|0|0|0
+KRT86|Keratin 86|486|0|0|0
+TP63|Tumor Protein P63|680|0|0|0
+SGCG|Sarcoglycan Gamma|291|0|0|0
+SGCE|Sarcoglycan Epsilon|437|0|0|0
+SGCD|Sarcoglycan Delta|289|0|0|0
+GP1BA|Glycoprotein Ib Platelet Alpha Subunit|652|0|0|0
+SGCB|Sarcoglycan Beta|318|0|0|0
+SGCA|Sarcoglycan Alpha|387|0|0|0
+MAPK1|Mitogen-Activated Protein Kinase 1|360|0|0|0
+BCO1|Beta-Carotene Oxygenase 1|547|0|0|0
+DUSP4|Dual Specificity Phosphatase 4|394|0|0|0
+QDPR|Quinoid Dihydropteridine Reductase|244|0|0|0
+BCOR|BCL6 Corepressor|1755|0|0|0
+IDUA|Iduronidase, Alpha-L-|653|0|0|0
+SIL1|SIL1 Nucleotide Exchange Factor|461|0|0|0
+GLB1|Galactosidase Beta 1|677|0|0|0
+STAT5B|Signal Transducer And Activator Of Transcription 5B|787|0|0|0
+PITPNM3|PITPNM Family Member 3|974|0|0|0
+DGUOK|Deoxyguanosine Kinase|277|0|0|0
+IKBKAP|Elongator Complex Protein 1|1332|0|0|0
+BMP15|Bone Morphogenetic Protein 15|392|0|0|0
+IDH3B|Isocitrate Dehydrogenase 3 (NAD(+)) Beta|385|0|0|0
+SERPINA7|Serpin Family A Member 7|415|0|0|0
+PLOD2|Procollagen-Lysine,2-Oxoglutarate 5-Dioxygenase 2|737|0|0|0
+PLOD3|Procollagen-Lysine,2-Oxoglutarate 5-Dioxygenase 3|738|0|0|0
+NRAS|NRAS Proto-Oncogene, GTPase|189|0|0|0
+FOXRED1|FAD Dependent Oxidoreductase Domain Containing 1|486|0|0|0
+PTPRD|Protein Tyrosine Phosphatase, Receptor Type D|1912|0|0|0
+ICK|Intestinal Cell Kinase|632|0|0|0
+DNMT3A|DNA Methyltransferase 3 Alpha|912|0|0|0
+RAD21|RAD21 Cohesin Complex Component|631|0|0|0
+UMOD|Uromodulin|640|0|0|0
+ALDH6A1|Aldehyde Dehydrogenase 6 Family Member A1|535|0|0|0
+NR2E3|Nuclear Receptor Subfamily 2 Group E Member 3|410|0|0|0
+NPM1|Nucleophosmin|294|0|0|0
+BCL10|B-Cell CLL/Lymphoma 10|233|0|0|0
+GFI1|Growth Factor Independent 1 Transcriptional Repressor|422|0|0|0
+MXI1|MAX Interactor 1, Dimerization Protein|228|0|0|0
+AKR1D1|Aldo-Keto Reductase Family 1 Member D1|326|0|0|0
+UPF3B|UPF3B, Regulator Of Nonsense Mediated MRNA Decay|483|0|0|0
+BRAF|B-Raf Proto-Oncogene, Serine/Threonine Kinase|766|0|0|0
+PCSK9|Proprotein Convertase Subtilisin/Kexin Type 9|692|0|0|0
+ESPN|Espin|854|0|0|0
+PRKAG3|Protein Kinase AMP-Activated Non-Catalytic Subunit Gamma 3|489|0|0|0
+PRKAG2|Protein Kinase AMP-Activated Non-Catalytic Subunit Gamma 2|569|0|0|0
+MEN1|Menin 1|615|0|0|0
+SEMA4A|Semaphorin 4A|761|0|0|0
+TAT|Tyrosine Aminotransferase|454|0|0|0
+TAZ|Tafazzin|292|0|0|0
+SCN4A|Sodium Voltage-Gated Channel Alpha Subunit 4|1836|0|0|0
+SCN4B|Sodium Voltage-Gated Channel Beta Subunit 4|228|0|0|0
+ARHGEF10|Rho Guanine Nucleotide Exchange Factor 10|1369|0|0|0
+POLG2|DNA Polymerase Gamma 2, Accessory Subunit|485|0|0|0
+OPN1SW|Opsin 1, Short Wave Sensitive|348|0|0|0
+ALOXE3|Arachidonate Lipoxygenase 3|711|0|0|0
+GIF|Gastric Intrinsic Factor|417|0|0|0
+GALNT12|Polypeptide N-Acetylgalactosaminyltransferase 12|581|0|0|0
+D2HGDH|D-2-Hydroxyglutarate Dehydrogenase|521|0|0|0
+PTEN|Phosphatase And Tensin Homolog|403|0|0|0
+CTCF|CCCTC-Binding Factor|727|0|0|0
+MMP13|Matrix Metallopeptidase 13|471|0|0|0
+CDKN1B|Cyclin Dependent Kinase Inhibitor 1B|198|0|0|0
+CDKN1A|Cyclin Dependent Kinase Inhibitor 1A|164|0|0|0
+SETBP1|SET Binding Protein 1|1596|0|0|0
+DNAI1|Dynein Axonemal Intermediate Chain 1|699|0|0|0
+NF2|Neurofibromin 2|595|0|0|0
+NF1|Neurofibromin 1|2839|0|0|0
+MRE11|MRE11 Homolog, Double Strand Break Repair Nuclease|708|0|0|0
+ZNF513|Zinc Finger Protein 513|541|0|0|0
+HNMT|Histamine N-Methyltransferase|292|0|0|0
+B3GLCT|Beta 3-Glucosyltransferase|498|0|0|0
+EDARADD|EDAR Associated Death Domain|215|0|0|0
+KCNQ4|Potassium Voltage-Gated Channel Subfamily Q Member 4|695|0|0|0
+KCNQ2|Potassium Voltage-Gated Channel Subfamily Q Member 2|872|0|0|0
+KCNQ3|Potassium Voltage-Gated Channel Subfamily Q Member 3|872|0|0|0
+KCNQ1|Potassium Voltage-Gated Channel Subfamily Q Member 1|676|0|0|0
+BLM|Bloom Syndrome RecQ Like Helicase|1417|0|0|0
+MMACHC|Methylmalonic Aciduria (Cobalamin Deficiency) CblC Type, With Homocystinuria|282|0|0|0
+VEGFA|Vascular Endothelial Growth Factor A|232|0|0|0
+SLC39A4|Solute Carrier Family 39 Member 4|647|0|0|0
+CABP4|Calcium Binding Protein 4|275|0|0|0
+TCN2|Transcobalamin 2|427|0|0|0
+VWF|Von Willebrand Factor|2813|0|0|0
+MYH14|Myosin Heavy Chain 14|1995|0|0|0
+PPP2R1A|Protein Phosphatase 2 Scaffold Subunit Aalpha|589|0|0|0
+RET|Ret Proto-Oncogene|1114|0|0|0
+AKAP10|A-Kinase Anchoring Protein 10|662|0|0|0
+TSC2|Tuberous Sclerosis 2|1807|0|0|0
+HTRA1|HtrA Serine Peptidase 1|480|0|0|0
+HTRA2|HtrA Serine Peptidase 2|458|0|0|0
+TSC1|Tuberous Sclerosis 1|1164|0|0|0
+HMBS|Hydroxymethylbilane Synthase|361|0|0|0
+P2RY12|Purinergic Receptor P2Y12|342|0|0|0
+ALAS2|5-Aminolevulinate Synthase 2|587|0|0|0
+BRWD3|Bromodomain And WD Repeat Domain Containing 3|1802|0|0|0
+MGA|MGA, MAX Dimerization Protein|3026|0|0|0
+LEPR|Leptin Receptor|1165|0|0|0
+CPOX|Coproporphyrinogen Oxidase|454|0|0|0
+ALG10|ALG10, Alpha-1,2-Glucosyltransferase|473|0|0|0
+ALG12|ALG12, Alpha-1,6-Mannosyltransferase|488|0|0|0
+BANK1|B-Cell Scaffold Protein With Ankyrin Repeats 1|785|0|0|0
+ARID5B|AT-Rich Interaction Domain 5B|1188|0|0|0
+BMPR1A|Bone Morphogenetic Protein Receptor Type 1A|532|0|0|0
+BMPR1B|Bone Morphogenetic Protein Receptor Type 1B|502|0|0|0
+SI|Sucrase-Isomaltase|1827|0|0|0
+ANKH|ANKH Inorganic Pyrophosphate Transport Regulator|492|0|0|0
+EGFR|Epidermal Growth Factor Receptor|1210|0|0|0
+GYG1|Glycogenin 1|350|0|0|0
+RS1|Retinoschisin 1|224|0|0|0
+MEF2B|Myocyte Enhancer Factor 2B|365|0|0|0
+TWIST1|Twist Family BHLH Transcription Factor 1|202|0|0|0
+ATP13A2|ATPase 13A2|1180|0|0|0
+DYM|Dymeclin|669|0|0|0
+HNF1A|HNF1 Homeobox A|631|0|0|0
+JAG1|Jagged 1|1218|0|0|0
+CLRN1|Clarin 1|232|0|0|0
+ARSE|Arylsulfatase E (Chondrodysplasia Punctata 1)|589|0|0|0
+ARSA|Arylsulfatase A|507|0|0|0
+ARSB|Arylsulfatase B|533|0|0|0
+HEXA|Hexosaminidase Subunit Alpha|529|0|0|0
+CA2|Carbonic Anhydrase 2|260|0|0|0
+HEXB|Hexosaminidase Subunit Beta|556|0|0|0
+FUT1|Fucosyltransferase 1 (H Blood Group)|365|0|0|0
+GHR|Growth Hormone Receptor|638|0|0|0
+RPGR|Retinitis Pigmentosa GTPase Regulator|1020|0|0|0
+COQ8A|Coenzyme Q8A|647|0|0|0
+HYLS1|HYLS1, Centriolar And Ciliogenesis Associated|299|0|0|0
+FBLN5|Fibulin 5|448|0|0|0
+ARHGEF9|Cdc42 Guanine Nucleotide Exchange Factor 9|516|0|0|0
+WNT10A|Wnt Family Member 10A|417|0|0|0
+PROKR2|Prokineticin Receptor 2|384|0|0|0
+CDH1|Cadherin 1|882|0|0|0
+RP1L1|RP1 Like 1|2480|0|0|0
+LIPA|Lipase A, Lysosomal Acid Type|399|0|0|0
+CENPJ|Centromere Protein J|1338|0|0|0
+LIPI|Lipase I|460|0|0|0
+STRA6|Stimulated By Retinoic Acid 6|667|0|0|0
+LDB3|LIM Domain Binding 3|727|0|0|0
+CLCF1|Cardiotrophin Like Cytokine Factor 1|225|0|0|0
+PROM1|Prominin 1|865|0|0|0
+EIF2B1|Eukaryotic Translation Initiation Factor 2B Subunit Alpha|305|0|0|0
+PAFAH1B1|Platelet Activating Factor Acetylhydrolase 1b Regulatory Subunit 1|410|0|0|0
+NHEJ1|Non-Homologous End Joining Factor 1|299|0|0|0
+PYY|Peptide YY|97|0|0|0
+CYLD|CYLD Lysine 63 Deubiquitinase|956|0|0|0
+ADGRG1|Adhesion G Protein-Coupled Receptor G1|693|0|0|0
+WNT7A|Wnt Family Member 7A|349|0|0|0
+GM2A|GM2 Ganglioside Activator|193|0|0|0
+HCN4|Hyperpolarization Activated Cyclic Nucleotide Gated Potassium Channel 4|1203|0|0|0
+ATP7A|ATPase Copper Transporting Alpha|1500|0|0|0
+ATP7B|ATPase Copper Transporting Beta|1465|0|0|0
+U2AF1|U2 Small Nuclear RNA Auxiliary Factor 1|240|0|0|0
+KMT2D|Lysine Methyltransferase 2D|5537|0|0|0
+NEK8|NIMA Related Kinase 8|692|0|0|0
+BUB1|BUB1 Mitotic Checkpoint Serine/Threonine Kinase|1085|0|0|0
+CNGA3|Cyclic Nucleotide Gated Channel Alpha 3|694|0|0|0
+SHH|Sonic Hedgehog|462|0|0|0
+PHEX|Phosphate Regulating Endopeptidase Homolog, X-Linked|749|0|0|0
+DYNC2H1|Dynein Cytoplasmic 2 Heavy Chain 1|4307|0|0|0
+EGLN1|Egl-9 Family Hypoxia Inducible Factor 1|426|0|0|0
+DNAH5|Dynein Axonemal Heavy Chain 5|4624|0|0|0
+SH3TC2|SH3 Domain And Tetratricopeptide Repeats 2|1288|0|0|0
+BBS10|Bardet-Biedl Syndrome 10|723|0|0|0
+BBS12|Bardet-Biedl Syndrome 12|710|0|0|0
+MYBPC3|Myosin Binding Protein C, Cardiac|1274|0|0|0
+NSD1|Nuclear Receptor Binding SET Domain Protein 1|2696|0|0|0
+SCN5A|Sodium Voltage-Gated Channel Alpha Subunit 5|2016|0|0|0
+FOXE1|Forkhead Box E1|373|0|0|0
+TNFSF11|TNF Superfamily Member 11|317|0|0|0
+TRPC6|Transient Receptor Potential Cation Channel Subfamily C Member 6|931|0|0|0
+TREM2|Triggering Receptor Expressed On Myeloid Cells 2|230|0|0|0
+ADSL|Adenylosuccinate Lyase|484|0|0|0
+MPLKIP|M-Phase Specific PLK1 Interacting Protein|179|0|0|0
+CDKL5|Cyclin Dependent Kinase Like 5|1030|0|0|0
+GNA11|G Protein Subunit Alpha 11|359|0|0|0
+TBX19|T-Box 19|448|0|0|0
+SLC35C1|Solute Carrier Family 35 Member C1|364|0|0|0
+XK|X-Linked Kx Blood Group|444|0|0|0
+FGD1|FYVE, RhoGEF And PH Domain Containing 1|961|0|0|0
+DLL3|Delta Like Canonical Notch Ligand 3|618|0|0|0
+OPN1LW|Opsin 1, Long Wave Sensitive|364|0|0|0
+CNNM4|Cyclin And CBS Domain Divalent Metal Cation Transport Mediator 4|775|0|0|0
+PIP5K1C|Phosphatidylinositol-4-Phosphate 5-Kinase Type 1 Gamma|668|0|0|0
+KEAP1|Kelch Like ECH Associated Protein 1|624|0|0|0
+CPN1|Carboxypeptidase N Subunit 1|458|0|0|0
+RANBP2|RAN Binding Protein 2|3224|0|0|0
+SLC4A11|Solute Carrier Family 4 Member 11|891|0|0|0
+TGFB1|Transforming Growth Factor Beta 1|390|0|0|0
+SMN1|Survival Of Motor Neuron 1, Telomeric|294|0|0|0
+FGD4|FYVE, RhoGEF And PH Domain Containing 4|766|0|0|0
+PRSS1|Protease, Serine 1|247|0|0|0
+EZH2|Enhancer Of Zeste 2 Polycomb Repressive Complex 2 Subunit|746|0|0|0
+LGI1|Leucine Rich Glioma Inactivated 1|557|0|0|0
+ECE1|Endothelin Converting Enzyme 1|770|0|0|0
+FKRP|Fukutin Related Protein|495|0|0|0
+ALX3|ALX Homeobox 3|343|0|0|0
+RB1|RB Transcriptional Corepressor 1|928|0|0|0
+ALX4|ALX Homeobox 4|411|0|0|0
+AURKA|Aurora Kinase A|403|0|0|0
+AURKB|Aurora Kinase B|344|0|0|0
+NOD2|Nucleotide Binding Oligomerization Domain Containing 2|1040|0|0|0
+RP1|RP1, Axonemal Microtubule Associated|2156|0|0|0
+RP2|RP2, ARL3 GTPase Activating Protein|350|0|0|0
+GNPTG|N-Acetylglucosamine-1-Phosphate Transferase Gamma Subunit|305|0|0|0
+RP9|Retinitis Pigmentosa 9 (Autosomal Dominant)|221|0|0|0
+CYP21A2|Cytochrome P450 Family 21 Subfamily A Member 2|494|0|0|0
+CARD11|Caspase Recruitment Domain Family Member 11|1154|0|0|0
+MGAT2|Mannosyl (Alpha-1,6-)-Glycoprotein Beta-1,2-N-Acetylglucosaminyltransferase|447|0|0|0
+CHST14|Carbohydrate Sulfotransferase 14|376|0|0|0
+OTC|Ornithine Carbamoyltransferase|354|0|0|0
+ERBB4|Erb-B2 Receptor Tyrosine Kinase 4|1308|0|0|0
+CUL4B|Cullin 4B|913|0|0|0
+TGFBI|Transforming Growth Factor Beta Induced|683|0|0|0
+ACADVL|Acyl-CoA Dehydrogenase, Very Long Chain|655|0|0|0
+SLC6A5|Solute Carrier Family 6 Member 5|797|0|0|0
+PCCB|Propionyl-CoA Carboxylase Beta Subunit|539|0|0|0
+SLC6A8|Solute Carrier Family 6 Member 8|635|0|0|0
+ADGRV1|Adhesion G Protein-Coupled Receptor V1|6306|0|0|0
+SOX17|SRY-Box 17|414|0|0|0
+CAV3|Caveolin 3|151|0|0|0
+AXL|AXL Receptor Tyrosine Kinase|894|0|0|0
+IL12RB1|Interleukin 12 Receptor Subunit Beta 1|662|0|0|0
+CLN6|Ceroid-Lipofuscinosis, Neuronal 6, Late Infantile, Variant|311|0|0|0
+CLN5|Ceroid-Lipofuscinosis, Neuronal 5|358|0|0|0
+CLN3|CLN3, Battenin|438|0|0|0
+NEXN|Nexilin F-Actin Binding Protein|675|0|0|0
+VSX1|Visual System Homeobox 1|365|0|0|0
+ZIC3|Zic Family Member 3|467|0|0|0
+BRCA1|BRCA1, DNA Repair Associated|1863|0|0|0
+AQP7|Aquaporin 7|342|0|0|0
+BRCA2|BRCA2, DNA Repair Associated|3418|0|0|0
+TBC1D24|TBC1 Domain Family Member 24|559|0|0|0
+WNK4|WNK Lysine Deficient Protein Kinase 4|1243|0|0|0
+NR3C2|Nuclear Receptor Subfamily 3 Group C Member 2|984|0|0|0
+RBBP8|RB Binding Protein 8, Endonuclease|897|0|0|0
+TCF7L2|Transcription Factor 7 Like 2|619|0|0|0
+RUNX2|Runt Related Transcription Factor 2|521|0|0|0
+RUNX1|Runt Related Transcription Factor 1|453|0|0|0
+BMPR2|Bone Morphogenetic Protein Receptor Type 2|1038|0|0|0
+PNPO|Pyridoxamine 5-Phosphate Oxidase|261|0|0|0
+FAM126A|Family With Sequence Similarity 126 Member A|521|0|0|0
+DOCK8|Dedicator Of Cytokinesis 8|2099|0|0|0
+GRIA3|Glutamate Ionotropic Receptor AMPA Type Subunit 3|894|0|0|0
+HRAS|HRas Proto-Oncogene, GTPase|189|0|0|0
+MED25|Mediator Complex Subunit 25|747|0|0|0
+SEPT9|Septin 9|586|0|0|0
+XRCC2|X-Ray Repair Cross Complementing 2|280|0|0|0
+JUN|Jun Proto-Oncogene, AP-1 Transcription Factor Subunit|331|0|0|0
+SCNN1G|Sodium Channel Epithelial 1 Gamma Subunit|649|0|0|0
+YARS|Tyrosyl-TRNA Synthetase|528|0|0|0
+SCNN1B|Sodium Channel Epithelial 1 Beta Subunit|640|0|0|0
+SCNN1A|Sodium Channel Epithelial 1 Alpha Subunit|669|0|0|0
+EPHB2|EPH Receptor B2|1055|0|0|0
+CTLA4|Cytotoxic T-Lymphocyte Associated Protein 4|223|0|0|0
+TFR2|Transferrin Receptor 2|801|0|0|0
+GPHN|Gephyrin|736|0|0|0
+ALDH4A1|Aldehyde Dehydrogenase 4 Family Member A1|563|0|0|0
+ESR1|Estrogen Receptor 1|595|0|0|0
+MRPS22|Mitochondrial Ribosomal Protein S22|360|0|0|0
+PHF8|PHD Finger Protein 8|1060|0|0|0
+PHF6|PHD Finger Protein 6|365|0|0|0
+FGF23|Fibroblast Growth Factor 23|251|0|0|0
+SMN2|Survival Of Motor Neuron 2, Centromeric|294|0|0|0
+RXFP2|Relaxin/Insulin Like Family Peptide Receptor 2|754|0|0|0
+TBX1|T-Box 1|398|0|0|0
+TBX4|T-Box 4|545|0|0|0
+FBXO7|F-Box Protein 7|522|0|0|0
+OPN1MW|Opsin 1, Medium Wave Sensitive|364|0|0|0
+SLC10A2|Solute Carrier Family 10 Member 2|348|0|0|0
+OPTN|Optineurin|577|0|0|0
+FHL1|Four And A Half LIM Domains 1|323|0|0|0
+FTO|FTO, Alpha-Ketoglutarate Dependent Dioxygenase|505|0|0|0
+KDR|Kinase Insert Domain Receptor|1356|0|0|0
+RPS26|Ribosomal Protein S26|115|0|0|0
+ATRX|ATRX, Chromatin Remodeler|2492|0|0|0
+RAD51D|RAD51 Paralog D|328|0|0|0
+RAD51C|RAD51 Paralog C|376|0|0|0
+RAD51B|RAD51 Paralog B|384|0|0|0
+ATL1|Atlastin GTPase 1|558|0|0|0
+SLC35D1|Solute Carrier Family 35 Member D1|355|0|0|0
+HIBCH|3-Hydroxyisobutyryl-CoA Hydrolase|386|0|0|0
+SLC5A5|Solute Carrier Family 5 Member 5|643|0|0|0
+PITX2|Paired Like Homeodomain 2|317|0|0|0
+DCLRE1C|DNA Cross-Link Repair 1C|692|0|0|0
+MID1|Midline 1|667|0|0|0
+WDR35|WD Repeat Domain 35|1181|0|0|0
+CLCNKB|Chloride Voltage-Gated Channel Kb|687|0|0|0
+PDE6C|Phosphodiesterase 6C|858|0|0|0
+VPS33B|VPS33B, Late Endosome And Lysosome Associated|617|0|0|0
+FAH|Fumarylacetoacetate Hydrolase|419|0|0|0
+TERT|Telomerase Reverse Transcriptase|1132|0|0|0
+KRT12|Keratin 12|494|0|0|0
+SPOP|Speckle Type BTB/POZ Protein|374|0|0|0
+TP53BP1|Tumor Protein P53 Binding Protein 1|1972|0|0|0
+TSEN34|TRNA Splicing Endonuclease Subunit 34|310|0|0|0
+CASP8|Caspase 8|479|0|0|0
+BCL2|BCL2, Apoptosis Regulator|239|0|0|0
+MAN2B1|Mannosidase Alpha Class 2B Member 1|1011|0|0|0
+MC2R|Melanocortin 2 Receptor|297|0|0|0
+AKT1|AKT Serine/Threonine Kinase 1|480|0|0|0
+AKT2|AKT Serine/Threonine Kinase 2|481|0|0|0
+OAT|Ornithine Aminotransferase|439|0|0|0
+EVC2|EvC Ciliary Complex Subunit 2|1308|0|0|0
+UPB1|Beta-Ureidopropionase 1|384|0|0|0
+NKX2-1|NK2 Homeobox 1|371|0|0|0
+NKX2-6|NK2 Homeobox 6|301|0|0|0
+NKX2-5|NK2 Homeobox 5|324|0|0|0
+SIAE|Sialic Acid Acetylesterase|523|0|0|0
+MYC|MYC Proto-Oncogene, BHLH Transcription Factor|439|0|0|0
+MTM1|Myotubularin 1|603|0|0|0
+AURKC|Aurora Kinase C|309|0|0|0
+COG4|Component Of Oligomeric Golgi Complex 4|785|0|0|0
+KLHL7|Kelch Like Family Member 7|586|0|0|0
+LITAF|Lipopolysaccharide Induced TNF Factor|161|0|0|0
+IGHMBP2|Immunoglobulin Mu Binding Protein 2|993|0|0|0
+ANKK1|Ankyrin Repeat And Kinase Domain Containing 1|765|0|0|0
+KCNMB1|Potassium Calcium-Activated Channel Subfamily M Regulatory Beta Subunit 1|191|0|0|0
+CX3CR1|C-X3-C Motif Chemokine Receptor 1|355|0|0|0
+HYAL1|Hyaluronoglucosaminidase 1|435|0|0|0
+ATP8B1|ATPase Phospholipid Transporting 8B1|1251|0|0|0
+CFTR|Cystic Fibrosis Transmembrane Conductance Regulator|1480|0|0|0
+HESX1|HESX Homeobox 1|185|0|0|0
+ST14|Suppression Of Tumorigenicity 14|855|0|0|0
+AANAT|Aralkylamine N-Acetyltransferase|207|0|0|0
+AMN|Amnion Associated Transmembrane Protein|453|0|0|0
+ASXL1|Additional Sex Combs Like 1, Transcriptional Regulator|1541|0|0|0
+ASXL2|Additional Sex Combs Like 2, Transcriptional Regulator|1435|0|0|0
+TNXB|Tenascin XB|4242|0|0|0
+TLR1|Toll Like Receptor 1|786|0|0|0
+HTR2C|5-Hydroxytryptamine Receptor 2C|458|0|0|0
+NEUROG3|Neurogenin 3|214|0|0|0
+AMT|Aminomethyltransferase|403|0|0|0
+LZTS1|Leucine Zipper Tumor Suppressor 1|596|0|0|0
+SMC1A|Structural Maintenance Of Chromosomes 1A|1233|0|0|0
+RAB7A|RAB7A, Member RAS Oncogene Family|207|0|0|0
+PKLR|Pyruvate Kinase, Liver And RBC|574|0|0|0
+EFEMP1|EGF Containing Fibulin Like Extracellular Matrix Protein 1|493|0|0|0
+VCL|Vinculin|1134|0|0|0
+EFEMP2|EGF Containing Fibulin Like Extracellular Matrix Protein 2|443|0|0|0
+PLEC|Plectin|4684|0|0|0
+BSCL2|BSCL2, Seipin Lipid Droplet Biogenesis Associated|398|0|0|0
+PEX1|Peroxisomal Biogenesis Factor 1|1283|0|0|0
+HADH|Hydroxyacyl-CoA Dehydrogenase|314|0|0|0
+PEX5|Peroxisomal Biogenesis Factor 5|639|0|0|0
+PEX7|Peroxisomal Biogenesis Factor 7|323|0|0|0
+POMGNT1|Protein O-Linked Mannose N-Acetylglucosaminyltransferase 1 (Beta 1,2-)|660|0|0|0
+SLC19A3|Solute Carrier Family 19 Member 3|496|0|0|0
+RBM20|RNA Binding Motif Protein 20|1227|0|0|0
+RBM28|RNA Binding Motif Protein 28|759|0|0|0
+NCF2|Neutrophil Cytosolic Factor 2|526|0|0|0
+NCF1|Neutrophil Cytosolic Factor 1|390|0|0|0
+CLDN16|Claudin 16|305|0|0|0
+CLDN14|Claudin 14|239|0|0|0
+CLDN19|Claudin 19|224|0|0|0
+MUTYH|MutY DNA Glycosylase|546|0|0|0
+HFE|Hemochromatosis|348|0|0|0
+GAD1|Glutamate Decarboxylase 1|594|0|0|0
+GPR143|G Protein-Coupled Receptor 143|404|0|0|0
+FGF19|Fibroblast Growth Factor 19|216|0|0|0
+KDM6A|Lysine Demethylase 6A|1401|0|0|0
+SLC7A7|Solute Carrier Family 7 Member 7|511|0|0|0
+FGF10|Fibroblast Growth Factor 10|208|0|0|0
+FGF14|Fibroblast Growth Factor 14|247|0|0|0
+MTHFR|Methylenetetrahydrofolate Reductase|656|0|0|0
+LCAT|Lecithin-Cholesterol Acyltransferase|440|0|0|0
+PDSS2|Decaprenyl Diphosphate Synthase Subunit 2|399|0|0|0
+PDSS1|Decaprenyl Diphosphate Synthase Subunit 1|415|0|0|0
+CC2D2A|Coiled-Coil And C2 Domain Containing 2A|1620|0|0|0
+UNC13D|Unc-13 Homolog D|1090|0|0|0
+DTNA|Dystrobrevin Alpha|743|0|0|0
+SYNE1|Spectrin Repeat Containing Nuclear Envelope Protein 1|8797|0|0|0
+SYNE2|Spectrin Repeat Containing Nuclear Envelope Protein 2|6885|0|0|0
+TNFRSF13B|TNF Receptor Superfamily Member 13B|293|0|0|0
+TRPS1|Transcriptional Repressor GATA Binding 1|1281|0|0|0
+SEMA3E|Semaphorin 3E|775|0|0|0
+KIF21A|Kinesin Family Member 21A|1674|0|0|0
+MET|MET Proto-Oncogene, Receptor Tyrosine Kinase|1390|0|0|0
+WWOX|WW Domain Containing Oxidoreductase|414|0|0|0
+UCHL1|Ubiquitin C-Terminal Hydrolase L1|223|0|0|0
+RPS19|Ribosomal Protein S19|145|0|0|0
+ARL6|ADP Ribosylation Factor Like GTPase 6|186|0|0|0
+LATS2|Large Tumor Suppressor Kinase 2|1088|0|0|0
+LATS1|Large Tumor Suppressor Kinase 1|1130|0|0|0
+CNTNAP2|Contactin Associated Protein-Like 2|1331|0|0|0
+PAPSS2|3-Phosphoadenosine 5-Phosphosulfate Synthase 2|614|0|0|0
+SLC9A3R1|SLC9A3 Regulator 1|358|0|0|0
+GCLC|Glutamate-Cysteine Ligase Catalytic Subunit|637|0|0|0
+OSMR|Oncostatin M Receptor|979|0|0|0
+MECP2|Methyl-CpG Binding Protein 2|486|0|0|0
+KCNJ13|Potassium Voltage-Gated Channel Subfamily J Member 13|360|0|0|0
+RAX2|Retina And Anterior Neural Fold Homeobox 2|184|0|0|0
+SNTA1|Syntrophin Alpha 1|505|0|0|0
+KCNJ10|Potassium Voltage-Gated Channel Subfamily J Member 10|379|0|0|0
+NAGS|N-Acetylglutamate Synthase|534|0|0|0
+PIM1|Pim-1 Proto-Oncogene, Serine/Threonine Kinase|404|0|0|0
+KCNJ18|Potassium Voltage-Gated Channel Subfamily J Member 18|433|0|0|0
+POU4F3|POU Class 4 Homeobox 3|338|0|0|0
+MCOLN1|Mucolipin 1|580|0|0|0
+RASA1|RAS P21 Protein Activator 1|1047|0|0|0
+PTPRT|Protein Tyrosine Phosphatase, Receptor Type T|1441|0|0|0
+SLC40A1|Solute Carrier Family 40 Member 1|571|0|0|0
+ACTN4|Actinin Alpha 4|911|0|0|0
+TINF2|TERF1 Interacting Nuclear Factor 2|451|0|0|0
+C1QTNF5|C1q And TNF Related 5|243|0|0|0
+MLC1|Megalencephalic Leukoencephalopathy With Subcortical Cysts 1|377|0|0|0
+HOGA1|4-Hydroxy-2-Oxoglutarate Aldolase 1|327|0|0|0
+CARTPT|CART Prepropeptide|116|0|0|0
+MYO7A|Myosin VIIA|2215|0|0|0
+PTPRJ|Protein Tyrosine Phosphatase, Receptor Type J|1337|0|0|0
+STK11|Serine/Threonine Kinase 11|433|0|0|0
+IFNAR2|Interferon Alpha And Beta Receptor Subunit 2|515|0|0|0
+HCRT|Hypocretin Neuropeptide Precursor|131|0|0|0
+TWNK|Twinkle MtDNA Helicase|684|0|0|0
+GNPTAB|N-Acetylglucosamine-1-Phosphate Transferase Alpha And Beta Subunits|1256|0|0|0
+RTN4R|Reticulon 4 Receptor|473|0|0|0
+OFD1|OFD1, Centriole And Centriolar Satellite Protein|1012|0|0|0
+PCCA|Propionyl-CoA Carboxylase Alpha Subunit|728|0|0|0
+DYSF|Dysferlin|2080|0|0|0
+WRN|Werner Syndrome RecQ Like Helicase|1432|0|0|0
+ZFYVE27|Zinc Finger FYVE-Type Containing 27|411|0|0|0
+GATA4|GATA Binding Protein 4|442|0|0|0
+GATA3|GATA Binding Protein 3|443|0|0|0
+F5|Coagulation Factor V|2224|0|0|0
+L2HGDH|L-2-Hydroxyglutarate Dehydrogenase|463|0|0|0
+CCND1|Cyclin D1|295|0|0|0
+CCND3|Cyclin D3|292|0|0|0
+CCND2|Cyclin D2|289|0|0|0
+CEP290|Centrosomal Protein 290|2479|0|0|0
+UBIAD1|UbiA Prenyltransferase Domain Containing 1|338|0|0|0
+CSRP3|Cysteine And Glycine Rich Protein 3|194|0|0|0
+HSD17B10|Hydroxysteroid 17-Beta Dehydrogenase 10|261|0|0|0
+UROS|Uroporphyrinogen III Synthase|265|0|0|0
+UROD|Uroporphyrinogen Decarboxylase|367|0|0|0
+SOX18|SRY-Box 18|384|0|0|0
+TNNT3|Troponin T3, Fast Skeletal Type|269|0|0|0
+PANK2|Pantothenate Kinase 2|570|0|0|0
+SOX10|SRY-Box 10|466|0|0|0
+KCNMA1|Potassium Calcium-Activated Channel Subfamily M Alpha 1|1236|0|0|0
+CCT5|Chaperonin Containing TCP1 Subunit 5|541|0|0|0
+OPCML|Opioid Binding Protein/Cell Adhesion Molecule Like|345|0|0|0
+ARL13B|ADP Ribosylation Factor Like GTPase 13B|428|0|0|0
+GDI1|GDP Dissociation Inhibitor 1|447|0|0|0
+MCCC2|Methylcrotonoyl-CoA Carboxylase 2|563|0|0|0
+MCCC1|Methylcrotonoyl-CoA Carboxylase 1|725|0|0|0
+ZDHHC9|Zinc Finger DHHC-Type Containing 9|364|0|0|0
+GFM1|G Elongation Factor Mitochondrial 1|751|0|0|0
+SLC26A2|Solute Carrier Family 26 Member 2|739|0|0|0
+CBL|Cbl Proto-Oncogene|906|0|0|0
+SLC22A4|Solute Carrier Family 22 Member 4|551|0|0|0
+SLC22A5|Solute Carrier Family 22 Member 5|557|0|0|0
+WDR36|WD Repeat Domain 36|951|0|0|0
+PRDM1|PR/SET Domain 1|825|0|0|0
+FLNA|Filamin A|2647|0|0|0
+FLNB|Filamin B|2602|0|0|0
+WDPCP|WD Repeat Containing Planar Cell Polarity Effector|746|0|0|0
+GIGYF2|GRB10 Interacting GYF Protein 2|1299|0|0|0
+NPHS1|NPHS1, Nephrin|1241|0|0|0
+SMS|Spermine Synthase|366|0|0|0
+SMO|Smoothened, Frizzled Class Receptor|787|0|0|0
+SLC4A4|Solute Carrier Family 4 Member 4|1079|0|0|0
+POLE|DNA Polymerase Epsilon, Catalytic Subunit|2286|0|0|0
+HGSNAT|Heparan-Alpha-Glucosaminide N-Acetyltransferase|663|0|0|0
+PLP1|Proteolipid Protein 1|277|0|0|0
+DCTN1|Dynactin Subunit 1|1278|0|0|0
+RNASET2|Ribonuclease T2|256|0|0|0
+POLH|DNA Polymerase Eta|713|0|0|0
+NDUFV2|NADH:Ubiquinone Oxidoreductase Core Subunit V2|249|0|0|0
+ASPA|Aspartoacylase|313|0|0|0
+RBM10|RNA Binding Motif Protein 10|930|0|0|0
+DCX|Doublecortin|365|0|0|0
+NAT2|N-Acetyltransferase 2|290|0|0|0
+RXRA|Retinoid X Receptor Alpha|462|0|0|0
+OPRM1|Opioid Receptor Mu 1|400|0|0|0
+ALDH9A1|Aldehyde Dehydrogenase 9 Family Member A1|494|0|0|0
+MVK|Mevalonate Kinase|396|0|0|0
+YAP1|Yes Associated Protein 1|504|0|0|0
+ALK|ALK Receptor Tyrosine Kinase|1620|0|0|0
+F7|Coagulation Factor VII|466|0|0|0
+F8|Coagulation Factor VIII|2351|0|0|0
+F9|Coagulation Factor IX|461|0|0|0
+SUCLA2|Succinate-CoA Ligase ADP-Forming Beta Subunit|463|0|0|0
+C1GALT1C1|C1GALT1 Specific Chaperone 1|318|0|0|0
+ABCA4|ATP Binding Cassette Subfamily A Member 4|2273|0|0|0
+ERG|ERG, ETS Transcription Factor|486|0|0|0
+ABCA3|ATP Binding Cassette Subfamily A Member 3|1704|0|0|0
+ABCA1|ATP Binding Cassette Subfamily A Member 1|2261|0|0|0
+RFT1|RFT1 Homolog|541|0|0|0
+CLN8|CLN8, Transmembrane ER And ERGIC Protein|286|0|0|0
+LDLRAP1|Low Density Lipoprotein Receptor Adaptor Protein 1|308|0|0|0
+MYOT|Myotilin|498|0|0|0
+CTNNB1|Catenin Beta 1|781|0|0|0
+MYOC|Myocilin|504|0|0|0
+MAD1L1|MAD1 Mitotic Arrest Deficient Like 1|718|0|0|0
+SLC25A3|Solute Carrier Family 25 Member 3|362|0|0|0
+PROP1|PROP Paired-Like Homeobox 1|226|0|0|0
+RYBP|RING1 And YY1 Binding Protein|228|0|0|0
+HSD17B3|Hydroxysteroid 17-Beta Dehydrogenase 3|310|0|0|0
+HSD17B4|Hydroxysteroid 17-Beta Dehydrogenase 4|736|0|0|0
+APOL1|Apolipoprotein L1|398|0|0|0
+LTBP4|Latent Transforming Growth Factor Beta Binding Protein 4|1624|0|0|0
+YARS2|Tyrosyl-TRNA Synthetase 2|477|0|0|0
+SUFU|SUFU Negative Regulator Of Hedgehog Signaling|484|0|0|0
+MCFD2|Multiple Coagulation Factor Deficiency 2|146|0|0|0
+HGD|Homogentisate 1,2-Dioxygenase|445|0|0|0
+MYO6|Myosin VI|1294|0|0|0
+PRCD|Photoreceptor Disc Component|54|0|0|0
+CILP|Cartilage Intermediate Layer Protein|1184|0|0|0
+GJB1|Gap Junction Protein Beta 1|283|0|0|0
+AICDA|Activation Induced Cytidine Deaminase|198|0|0|0
+MLPH|Melanophilin|600|0|0|0
+ZFPM2|Zinc Finger Protein, FOG Family Member 2|1151|0|0|0
+TSPAN12|Tetraspanin 12|305|0|0|0
+HUWE1|HECT, UBA And WWE Domain Containing 1, E3 Ubiquitin Protein Ligase|4374|0|0|0
+MAT1A|Methionine Adenosyltransferase 1A|395|0|0|0
+ARAF|A-Raf Proto-Oncogene, Serine/Threonine Kinase|606|0|0|0
+SLC25A19|Solute Carrier Family 25 Member 19|320|0|0|0
+SLC25A15|Solute Carrier Family 25 Member 15|301|0|0|0
+GCM2|Glial Cells Missing Homolog 2|506|0|0|0
+SLC25A13|Solute Carrier Family 25 Member 13|675|0|0|0
+ROS1|ROS Proto-Oncogene 1, Receptor Tyrosine Kinase|2347|0|0|0
+LBR|Lamin B Receptor|615|0|0|0
+NFE2L2|Nuclear Factor, Erythroid 2 Like 2|605|0|0|0
+SLC12A1|Solute Carrier Family 12 Member 1|1099|0|0|0
+FOXF1|Forkhead Box F1|379|0|0|0
+SLC12A3|Solute Carrier Family 12 Member 3|1021|0|0|0
+RAX|Retina And Anterior Neural Fold Homeobox|346|0|0|0
+EXT2|Exostosin Glycosyltransferase 2|718|0|0|0
+EXT1|Exostosin Glycosyltransferase 1|746|0|0|0
+XYLT2|Xylosyltransferase 2|865|0|0|0
+XYLT1|Xylosyltransferase 1|959|0|0|0
+LPL|Lipoprotein Lipase|475|0|0|0
+RPGRIP1L|RPGRIP1 Like|1315|0|0|0
+KIRREL3|Kin Of IRRE Like 3 (Drosophila)|778|0|0|0
+ARID1B|AT-Rich Interaction Domain 1B|2236|0|0|0
+ARID1A|AT-Rich Interaction Domain 1A|2285|0|0|0
+VIM|Vimentin|466|0|0|0
+PTPN12|Protein Tyrosine Phosphatase, Non-Receptor Type 12|780|0|0|0
+MMAA|Methylmalonic Aciduria (Cobalamin Deficiency) CblA Type|418|0|0|0
+ALDH5A1|Aldehyde Dehydrogenase 5 Family Member A1|535|0|0|0
+MMAB|Methylmalonic Aciduria (Cobalamin Deficiency) CblB Type|250|0|0|0
+TYR|Tyrosinase|529|0|0|0
+ALG8|ALG8, Alpha-1,3-Glucosyltransferase|526|0|0|0
+ALG9|ALG9, Alpha-1,2-Mannosyltransferase|611|0|0|0
+CYB5R3|Cytochrome B5 Reductase 3|301|0|0|0
+ALG2|ALG2, Alpha-1,3/1,6-Mannosyltransferase|416|0|0|0
+ALG3|ALG3, Alpha-1,3- Mannosyltransferase|438|0|0|0
+CRELD1|Cysteine Rich With EGF Like Domains 1|420|0|0|0
+ALG6|ALG6, Alpha-1,3-Glucosyltransferase|507|0|0|0
+ITGB2|Integrin Subunit Beta 2|769|0|0|0
+SLC29A3|Solute Carrier Family 29 Member 3|475|0|0|0
+GLE1|GLE1, RNA Export Mediator|698|0|0|0
+SLC11A2|Solute Carrier Family 11 Member 2|568|0|0|0
+TIRAP|TIR Domain Containing Adaptor Protein|221|0|0|0
+CCNE1|Cyclin E1|410|0|0|0
+FIG4|FIG4 Phosphoinositide 5-Phosphatase|907|0|0|0
+ORAI1|ORAI Calcium Release-Activated Calcium Modulator 1|301|0|0|0
+BFSP2|Beaded Filament Structural Protein 2|415|0|0|0
+DLAT|Dihydrolipoamide S-Acetyltransferase|647|0|0|0
+GALNT3|Polypeptide N-Acetylgalactosaminyltransferase 3|633|0|0|0
+RNASEH2A|Ribonuclease H2 Subunit A|299|0|0|0
+IRF6|Interferon Regulatory Factor 6|467|0|0|0
+RNASEH2C|Ribonuclease H2 Subunit C|164|0|0|0
+RNASEH2B|Ribonuclease H2 Subunit B|312|0|0|0
+CD96|CD96 Molecule|585|0|0|0
+PDX1|Pancreatic And Duodenal Homeobox 1|283|0|0|0
+MUT|Methylmalonyl-CoA Mutase|750|0|0|0
+EFNB1|Ephrin B1|346|0|0|0
+AHI1|Abelson Helper Integration Site 1|1196|0|0|0
+PGAM2|Phosphoglycerate Mutase 2|253|0|0|0
+SH3BP2|SH3 Domain Binding Protein 2|561|0|0|0
+MESP2|Mesoderm Posterior BHLH Transcription Factor 2|397|0|0|0
+CBX2|Chromobox 2|532|0|0|0
+FECH|Ferrochelatase|423|0|0|0
+NLRP7|NLR Family Pyrin Domain Containing 7|980|0|0|0
+NLRP1|NLR Family Pyrin Domain Containing 1|1473|0|0|0
+NLRP3|NLR Family Pyrin Domain Containing 3|1036|0|0|0
+PSEN2|Presenilin 2|448|0|0|0
+CST3|Cystatin C|146|0|0|0
+LYST|Lysosomal Trafficking Regulator|3801|0|0|0
+ASL|Argininosuccinate Lyase|464|0|0|0
+ACVR2B|Activin A Receptor Type 2B|512|0|0|0
+CSTB|Cystatin B|98|0|0|0
+NAGLU|N-Acetyl-Alpha-Glucosaminidase|743|0|0|0
+MTOR|Mechanistic Target Of Rapamycin|2549|0|0|0
+LAMP2|Lysosomal Associated Membrane Protein 2|410|0|0|0
+ACADSB|Acyl-CoA Dehydrogenase, Short/Branched Chain|432|0|0|0
+UNG|Uracil DNA Glycosylase|313|0|0|0
+EP300|E1A Binding Protein P300|2414|0|0|0
+KIF1B|Kinesin Family Member 1B|1816|0|0|0
+SHOC2|SHOC2, Leucine Rich Repeat Scaffold Protein|582|0|0|0
+RAD50|RAD50 Double Strand Break Repair Protein|1312|0|0|0
+NEU1|Neuraminidase 1|415|0|0|0
+ERCC8|ERCC Excision Repair 8, CSA Ubiquitin Ligase Complex Subunit|396|0|0|0
+ERCC2|ERCC Excision Repair 2, TFIIH Core Complex Helicase Subunit|760|0|0|0
+ERCC3|ERCC Excision Repair 3, TFIIH Core Complex Helicase Subunit|782|0|0|0
+ARMS2|Age-Related Maculopathy Susceptibility 2|107|0|0|0
+ERCC6|ERCC Excision Repair 6, Chromatin Remodeling Factor|1493|0|0|0
+SCN9A|Sodium Voltage-Gated Channel Alpha Subunit 9|1988|0|0|0
+SOX9|SRY-Box 9|509|0|0|0
+CEBPA|CCAAT/Enhancer Binding Protein Alpha|358|0|0|0
+ASAH1|N-Acylsphingosine Amidohydrolase 1|395|0|0|0
+RAD54B|RAD54 Homolog B (S. Cerevisiae)|910|0|0|0
+RAD54L|RAD54 Like (S. Cerevisiae)|747|0|0|0
+MED12|Mediator Complex Subunit 12|2177|0|0|0
+ABCB7|ATP Binding Cassette Subfamily B Member 7|752|0|0|0
+TTPA|Alpha Tocopherol Transfer Protein|278|0|0|0
+MFSD8|Major Facilitator Superfamily Domain Containing 8|518|0|0|0
+KLKB1|Kallikrein B1|638|0|0|0
+TPP1|Tripeptidyl Peptidase 1|563|0|0|0
+CYBB|Cytochrome B-245 Beta Chain|570|0|0|0
+CYBA|Cytochrome B-245 Alpha Chain|195|0|0|0
+TNFRSF11A|TNF Receptor Superfamily Member 11a|616|0|0|0
+TNFRSF11B|TNF Receptor Superfamily Member 11b|401|0|0|0
+CTNS|Cystinosin, Lysosomal Cystine Transporter|367|0|0|0
+PHYH|Phytanoyl-CoA 2-Hydroxylase|338|0|0|0
+NOTCH1|Notch 1|2555|0|0|0
+NOTCH2|Notch 2|2471|0|0|0
+NOTCH3|Notch 3|2321|0|0|0
+TGIF1|TGFB Induced Factor Homeobox 1|401|0|0|0
+MUSK|Muscle Associated Receptor Tyrosine Kinase|869|0|0|0
+HSF4|Heat Shock Transcription Factor 4|492|0|0|0
+CRLF1|Cytokine Receptor Like Factor 1|422|0|0|0
+APOC2|Apolipoprotein C2|101|0|0|0
+ATP2C1|ATPase Secretory Pathway Ca2+ Transporting 1|919|0|0|0
+SNRNP200|Small Nuclear Ribonucleoprotein U5 Subunit 200|2136|0|0|0
+USB1|U6 SnRNA Biogenesis Phosphodiesterase 1|265|0|0|0
+BHLHE41|Basic Helix-Loop-Helix Family Member E41|482|0|0|0
+PARK7|Parkinsonism Associated Deglycase|189|0|0|0
+POU6F2|POU Class 6 Homeobox 2|691|0|0|0
+GUSB|Glucuronidase Beta|651|0|0|0
+ETFDH|Electron Transfer Flavoprotein Dehydrogenase|617|0|0|0
+SLC25A22|Solute Carrier Family 25 Member 22|323|0|0|0
+SLC25A20|Solute Carrier Family 25 Member 20|301|0|0|0
+DICER1|Dicer 1, Ribonuclease III|1922|0|0|0
+MDM2|MDM2 Proto-Oncogene|491|0|0|0
+MDM4|MDM4, P53 Regulator|490|0|0|0
+PLA2G4A|Phospholipase A2 Group IVA|749|0|0|0
+ATIC|5-Aminoimidazole-4-Carboxamide Ribonucleotide Formyltransferase/IMP Cyclohydrolase|592|0|0|0
+RSPO4|R-Spondin 4|234|0|0|0
+KIT|KIT Proto-Oncogene Receptor Tyrosine Kinase|976|0|0|0
+FOXA1|Forkhead Box A1|472|0|0|0
+EDAR|Ectodysplasin A Receptor|448|0|0|0
+MYO5B|Myosin VB|1848|0|0|0
+KCNV2|Potassium Voltage-Gated Channel Modifier Subfamily V Member 2|545|0|0|0
+HPS3|HPS3, Biogenesis Of Lysosomal Organelles Complex 2 Subunit 1|1004|0|0|0
+CRX|Cone-Rod Homeobox|299|0|0|0
+CARM1|Coactivator Associated Arginine Methyltransferase 1|608|0|0|0
+NOP10|NOP10 Ribonucleoprotein|64|0|0|0
+TSHR|Thyroid Stimulating Hormone Receptor|764|0|0|0
+SDHAF1|Succinate Dehydrogenase Complex Assembly Factor 1|115|0|0|0
+SDHAF2|Succinate Dehydrogenase Complex Assembly Factor 2|166|0|0|0
+SUMF1|Sulfatase Modifying Factor 1|374|0|0|0
+GLDC|Glycine Decarboxylase|1020|0|0|0
+SLC25A12|Solute Carrier Family 25 Member 12|678|0|0|0
+MKS1|Meckel Syndrome, Type 1|559|0|0|0
+PC|Pyruvate Carboxylase|1178|0|0|0
+TRPM4|Transient Receptor Potential Cation Channel Subfamily M Member 4|1214|0|0|0
+TRPM6|Transient Receptor Potential Cation Channel Subfamily M Member 6|2022|0|0|0
+TRPM7|Transient Receptor Potential Cation Channel Subfamily M Member 7|1865|0|0|0
+TRPM1|Transient Receptor Potential Cation Channel Subfamily M Member 1|1603|0|0|0
+B4GALT7|Beta-1,4-Galactosyltransferase 7|327|0|0|0
+PGK1|Phosphoglycerate Kinase 1|417|0|0|0
+LARGE1|LARGE Xylosyl- And Glucuronyltransferase 1|756|0|0|0
+TUBB3|Tubulin Beta 3 Class III|450|0|0|0
+TUBB1|Tubulin Beta 1 Class VI|451|0|0|0
+APTX|Aprataxin|356|0|0|0
+LCT|Lactase|1927|0|0|0
+IMPG2|Interphotoreceptor Matrix Proteoglycan 2|1241|0|0|0
+GALK1|Galactokinase 1|392|0|0|0
+SLURP1|Secreted LY6/PLAUR Domain Containing 1|103|0|0|0
+OTOF|Otoferlin|1997|0|0|0
+AGTR2|Angiotensin II Receptor Type 2|363|0|0|0
+CDAN1|Codanin 1|1227|0|0|0
+CCR2|C-C Motif Chemokine Receptor 2|374|0|0|0
+SERPING1|Serpin Family G Member 1|500|0|0|0
+CCR5|C-C Motif Chemokine Receptor 5 (Gene/Pseudogene)|352|0|0|0
+DNAAF1|Dynein Axonemal Assembly Factor 1|725|0|0|0
+PSTPIP1|Proline-Serine-Threonine Phosphatase Interacting Protein 1|416|0|0|0
+RAF1|Raf-1 Proto-Oncogene, Serine/Threonine Kinase|648|0|0|0
+EHMT1|Euchromatic Histone Lysine Methyltransferase 1|1298|0|0|0
+STAT3|Signal Transducer And Activator Of Transcription 3|770|0|0|0
+SEC23A|Sec23 Homolog A, Coat Complex II Component|765|0|0|0
+STAT1|Signal Transducer And Activator Of Transcription 1|750|0|0|0
+HPRT1|Hypoxanthine Phosphoribosyltransferase 1|218|0|0|0
+STOX1|Storkhead Box 1|989|0|0|0
+DPM3|Dolichyl-Phosphate Mannosyltransferase Subunit 3|92|0|0|0
+DPM1|Dolichyl-Phosphate Mannosyltransferase Subunit 1, Catalytic|260|0|0|0
+LRTOMT|Leucine Rich Transmembrane And O-Methyltransferase Domain Containing|291|192|0|0
+OCLN|Occludin|522|0|0|0
+LRP2|LDL Receptor Related Protein 2|4655|0|0|0
+NEUROD1|Neuronal Differentiation 1|356|0|0|0
+LRP6|LDL Receptor Related Protein 6|1613|0|0|0
+LRP4|LDL Receptor Related Protein 4|1905|0|0|0
+LRP5|LDL Receptor Related Protein 5|1615|0|0|0
+LRP8|LDL Receptor Related Protein 8|963|0|0|0
+DDR2|Discoidin Domain Receptor Tyrosine Kinase 2|855|0|0|0
+RHEB|Ras Homolog Enriched In Brain|184|0|0|0
+IYD|Iodotyrosine Deiodinase|289|0|0|0
+PPP2R1B|Protein Phosphatase 2 Scaffold Subunit Abeta|601|0|0|0
+ANTXR1|Anthrax Toxin Receptor 1|564|0|0|0
+ANTXR2|Anthrax Toxin Receptor 2|489|0|0|0
+MAP2K2|Mitogen-Activated Protein Kinase Kinase 2|400|0|0|0
+MAP2K1|Mitogen-Activated Protein Kinase Kinase 1|393|0|0|0
+DFNB59|Deafness, Autosomal Recessive 59|352|0|0|0
+MAP2K4|Mitogen-Activated Protein Kinase Kinase 4|399|0|0|0
+PTPN22|Protein Tyrosine Phosphatase, Non-Receptor Type 22|807|0|0|0
+CHIT1|Chitinase 1|466|0|0|0
+GAN|Gigaxonin|597|0|0|0
+NIPBL|NIPBL, Cohesin Loading Factor|2804|0|0|0
+SERPINI1|Serpin Family I Member 1|410|0|0|0
+GAA|Glucosidase Alpha, Acid|952|0|0|0
+KMT2C|Lysine Methyltransferase 2C|4911|0|0|0
+KMT2B|Lysine Methyltransferase 2B|2715|0|0|0
+KMT2A|Lysine Methyltransferase 2A|3969|0|0|0
+HSPB3|Heat Shock Protein Family B (Small) Member 3|150|0|0|0
+HSPB1|Heat Shock Protein Family B (Small) Member 1|205|0|0|0
+CYP4V2|Cytochrome P450 Family 4 Subfamily V Member 2|525|0|0|0
+HSPB8|Heat Shock Protein Family B (Small) Member 8|196|0|0|0
+ALDOB|Aldolase, Fructose-Bisphosphate B|364|0|0|0
+ARX|Aristaless Related Homeobox|562|0|0|0
+PRPS1|Phosphoribosyl Pyrophosphate Synthetase 1|318|0|0|0
+PON2|Paraoxonase 2|354|0|0|0
+PSAT1|Phosphoserine Aminotransferase 1|370|0|0|0
+ABCC8|ATP Binding Cassette Subfamily C Member 8|1581|0|0|0
+ABCC9|ATP Binding Cassette Subfamily C Member 9|1549|0|0|0
+ABCC6|ATP Binding Cassette Subfamily C Member 6|1503|0|0|0
+ABCC2|ATP Binding Cassette Subfamily C Member 2|1545|0|0|0
+KCNE2|Potassium Voltage-Gated Channel Subfamily E Regulatory Subunit 2|123|0|0|0
+KCNE3|Potassium Voltage-Gated Channel Subfamily E Regulatory Subunit 3|103|0|0|0
+GSS|Glutathione Synthetase|474|0|0|0
+WASHC5|WASH Complex Subunit 5|1159|0|0|0
+DHCR7|7-Dehydrocholesterol Reductase|475|0|0|0
+CASP10|Caspase 10|521|0|0|0
+AFG3L2|AFG3 Like Matrix AAA Peptidase Subunit 2|797|0|0|0
+SCO2|SCO2, Cytochrome C Oxidase Assembly Protein|266|0|0|0
+SCO1|SCO1, Cytochrome C Oxidase Assembly Protein|301|0|0|0
+MMADHC|Methylmalonic Aciduria And Homocystinuria, CblD Type|296|0|0|0
+LIG4|DNA Ligase 4|911|0|0|0
+CSNK1D|Casein Kinase 1 Delta|415|0|0|0
+KHK|Ketohexokinase|298|0|0|0
+ISCU|Iron-Sulfur Cluster Assembly Enzyme|167|0|0|0
+TSPAN7|Tetraspanin 7|249|0|0|0
+TDP1|Tyrosyl-DNA Phosphodiesterase 1|608|0|0|0
+MEFV|MEFV, Pyrin Innate Immunity Regulator|781|0|0|0
+CPS1|Carbamoyl-Phosphate Synthase 1|1500|0|0|0
+KDM5C|Lysine Demethylase 5C|1560|0|0|0
+KCNJ11|Potassium Voltage-Gated Channel Subfamily J Member 11|390|0|0|0
+DNMT3B|DNA Methyltransferase 3 Beta|853|0|0|0
+AIPL1|Aryl Hydrocarbon Receptor Interacting Protein Like 1|384|0|0|0
+TBX5|T-Box 5|518|0|0|0
+DNM2|Dynamin 2|870|0|0|0
+SLC25A38|Solute Carrier Family 25 Member 38|304|0|0|0
+TUBA1A|Tubulin Alpha 1a|451|0|0|0
+OTX2|Orthodenticle Homeobox 2|289|0|0|0
+PIK3R3|Phosphoinositide-3-Kinase Regulatory Subunit 3|461|0|0|0
+PIK3R2|Phosphoinositide-3-Kinase Regulatory Subunit 2|728|0|0|0
+PIK3R1|Phosphoinositide-3-Kinase Regulatory Subunit 1|724|0|0|0
+IFT122|Intraflagellar Transport 122|1241|0|0|0
+SAMD9|Sterile Alpha Motif Domain Containing 9|1589|0|0|0
+STAG2|Stromal Antigen 2|1231|0|0|0
+NPHS2|NPHS2, Podocin|383|0|0|0
+PKHD1|PKHD1, Fibrocystin/Polyductin|4074|0|0|0
+ETV1|ETS Variant 1|477|0|0|0
+WFS1|Wolframin ER Transmembrane Glycoprotein|890|0|0|0
+ETV6|ETS Variant 6|452|0|0|0
+ARG1|Arginase 1|322|0|0|0
+G6PD|Glucose-6-Phosphate Dehydrogenase|515|0|0|0
+G6PC|Glucose-6-Phosphatase Catalytic Subunit|357|0|0|0
+POMT1|Protein O-Mannosyltransferase 1|747|0|0|0
+POMT2|Protein O-Mannosyltransferase 2|750|0|0|0
+AGPS|Alkylglycerone Phosphate Synthase|658|0|0|0
+POF1B|Premature Ovarian Failure, 1B|589|0|0|0
+FCGR2B|Fc Fragment Of IgG Receptor IIb|310|0|0|0
+IDS|Iduronate 2-Sulfatase|550|0|0|0
+ABL1|ABL Proto-Oncogene 1, Non-Receptor Tyrosine Kinase|1130|0|0|0
+STAR|Steroidogenic Acute Regulatory Protein|285|0|0|0
+IKZF1|IKAROS Family Zinc Finger 1|519|0|0|0
+SOS1|SOS Ras/Rac Guanine Nucleotide Exchange Factor 1|1333|0|0|0
+REEP1|Receptor Accessory Protein 1|201|0|0|0
+DLC1|DLC1 Rho GTPase Activating Protein|1528|0|0|0
+ALG1|ALG1, Chitobiosyldiphosphodolichol Beta-Mannosyltransferase|464|0|0|0
+ARFGEF2|ADP Ribosylation Factor Guanine Nucleotide Exchange Factor 2|1785|0|0|0
+SERPINF2|Serpin Family F Member 2|491|0|0|0
+GHSR|Growth Hormone Secretagogue Receptor|366|0|0|0
+MAPK8IP1|Mitogen-Activated Protein Kinase 8 Interacting Protein 1|711|0|0|0
+CEP152|Centrosomal Protein 152|1710|0|0|0
+FAAH|Fatty Acid Amide Hydrolase|579|0|0|0
+OXCT1|3-Oxoacid CoA-Transferase 1|520|0|0|0
+CIC|Capicua Transcriptional Repressor|1608|0|0|0
+KARS|Lysyl-TRNA Synthetase|597|0|0|0
+BBS2|Bardet-Biedl Syndrome 2|721|0|0|0
+SLC33A1|Solute Carrier Family 33 Member 1|549|0|0|0
+ELF3|E74 Like ETS Transcription Factor 3|371|0|0|0
+UGT1A1|UDP Glucuronosyltransferase Family 1 Member A1|533|0|0|0
+RAB35|RAB35, Member RAS Oncogene Family|201|0|0|0
+UPK3A|Uroplakin 3A|287|0|0|0
+GLI1|GLI Family Zinc Finger 1|1106|0|0|0
+DOK7|Docking Protein 7|504|0|0|0
+ZFP57|ZFP57 Zinc Finger Protein|452|0|0|0
+SHROOM4|Shroom Family Member 4|1493|0|0|0
+CUBN|Cubilin|3623|0|0|0
+GPC3|Glypican 3|580|0|0|0
+CFL2|Cofilin 2|166|0|0|0
+BBS9|Bardet-Biedl Syndrome 9|887|0|0|0
+PLEKHG5|Pleckstrin Homology And RhoGEF Domain Containing G5|1062|0|0|0
+BBS1|Bardet-Biedl Syndrome 1|593|0|0|0
+SLC11A1|Solute Carrier Family 11 Member 1|550|0|0|0
+BBS5|Bardet-Biedl Syndrome 5|341|0|0|0
+C2orf71|Chromosome 2 Open Reading Frame 71|1288|0|0|0
+BBS7|Bardet-Biedl Syndrome 7|715|0|0|0
+GDNF|Glial Cell Derived Neurotrophic Factor|211|0|0|0
+DNM1L|Dynamin 1 Like|736|0|0|0
+MTMR14|Myotubularin Related Protein 14|650|0|0|0
+|0|0|0
